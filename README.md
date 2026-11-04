@@ -1,243 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=HIZKIA%20LETWAR&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Nihongo-Web%20%C2%B7%20XI%20TJKT%20%C2%B7%20Web%20Developer%20%C2%B7%20Security%20Explorer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,68:155e75,100:22d3ee&height=220&section=header&text=HIZKIA%20LETWAR&fontSize=56&fontColor=f8fafc&animation=twinkling&fontAlignY=37&desc=%40Ikyletwar%20%C2%B7%20Nihongo-Web%20%C2%B7%20XI%20TJKT%201&descAlignY=57&descSize=18&descColor=fbbf24" width="100%" alt="Hizkia Letwar header" />
 
 <p align="center">
   <a href="https://github.com/Ikyletwar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Hizkia+Letwar+%E2%80%94+Ikyletwar;XI+TJKT%2C+SMK+Negeri+1+Maluku+Tengah;Web+Dev+%C2%B7+PWA+%C2%B7+GitHub+Pages+%C2%B7+Vercel;Reverse+Engineering+%C2%B7+OSINT+%C2%B7+Android+Security;Building+useful+tools+for+school+and+community" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=850&color=22D3EE&center=true&vCenter=true&width=780&lines=Halo%2C+saya+Hizkia+Letwar+%E2%80%94+%40Ikyletwar;XI+TJKT+1+%C2%B7+SMK+Negeri+1+Maluku+Tengah;Web%2FPWA+%C2%B7+Android+%C2%B7+Automation+%C2%B7+Static-first;Reverse+engineering+%C2%B7+OSINT+%C2%B7+Prompt-injection+research;Membangun+tool+sekolah+%26+komunitas" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ikyletwar&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="https://github.com/Ikyletwar?tab=followers"><img src="https://img.shields.io/github/followers/Ikyletwar?style=for-the-badge&logo=github&color=1d4ed8" alt="followers" /></a>
-  <a href="https://github.com/Ikyletwar/Ikyletwar"><img src="https://img.shields.io/badge/Profile-README-38bdf8?style=for-the-badge&logo=github" alt="profile readme" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ikyletwar&style=for-the-badge&color=155e75&label=PROFILE%20VIEWS" alt="profile views" />
+  <a href="https://github.com/Ikyletwar?tab=followers"><img src="https://img.shields.io/github/followers/Ikyletwar?style=for-the-badge&logo=github&color=0f766e&label=FOLLOWERS" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/PROJECT%20REPOS-35-0ea5e9?style=for-the-badge&logo=github" alt="project repos" />
+  <img src="https://img.shields.io/badge/LIVE%20DEMOS-9-f59e0b?style=for-the-badge&logo=githubpages&logoColor=111827" alt="live demos" />
+  <img src="https://img.shields.io/badge/OPEN%20ISSUES-0-22c55e?style=for-the-badge&logo=github" alt="open issues" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Tentang Saya
+## `/whoami --verbose`
 
-- Saya **Hizkia Letwar** — GitHub: [`@Ikyletwar`](https://github.com/Ikyletwar), display name: **Nihongo-Web**.
-- Siswa **XI TJKT 1, SMK Negeri 1 Maluku Tengah**. Banyak repo saya berangkat dari kebutuhan nyata sekolah, kelas, dan komunitas: jadwal, absensi, inventaris, situs kelas, dan portal informasi.
-- Fokus utama: **web development** dengan HTML, CSS, JavaScript murni, Tailwind CSS, PWA/offline-first, GitHub Pages, dan Vercel.
-- Senang membongkar cara kerja sistem: reverse engineering, OSINT, prompt-injection research, Android security, dan tooling untuk belajar.
-- Membangun aplikasi web sekolah/komunitas: portal kelas, jadwal otomatis, absensi + pelanggaran siswa, inventaris barang, dan situs profil.
-- Juga tertarik pada **AI berbasis browser/single-file**: quiz generator, resep AI, novel interaktif, chat UI dengan Cerebras API.
-- Prinsip kerja saya: **bikin sampai jalan dulu, lalu perbaiki sampai layak dipakai**.
-- Portfolio utama: [personal-website-v2](https://ikyletwar.github.io/personal-website-v2/) · versi sebelumnya: [Personal-Website](https://ikyletwar.github.io/Personal-Website/)
+```yaml
+name: Hizkia Letwar
+handle: "@Ikyletwar"
+display_name: "Nihongo-Web"
+role: "XI TJKT 1 · SMK Negeri 1 Maluku Tengah"
+region_context: "Maluku Tengah, Indonesia"
+shipping_since: "public project repos active since Mar 2026"
+last_public_push: "2026-11-03"
+stack_bias: ["static-first", "offline-first", "mobile-first", "no-build-when-possible"]
+focus:
+  - "web apps & PWA"
+  - "Android (Kotlin/Compose/Room, Java, NDK/C)"
+  - "school & community tooling"
+  - "reverse engineering & prompt-injection research"
+bio: "I'm Back."
+```
 
----
+> _“I'm Back.” — GitHub bio_
 
-## Ringkasan Data GitHub
+## Repo Pulse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-35-1d4ed8?style=for-the-badge&logo=github" alt="public repos" />
-  <img src="https://img.shields.io/badge/Primary-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="primary html" />
-  <img src="https://img.shields.io/badge/Mobile-Kotlin%20%2B%20Java-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin java" />
-  <img src="https://img.shields.io/badge/Security-RE%20%2F%20OSINT-0f172a?style=for-the-badge&logo=github" alt="security" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/repo-pulse-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/repo-pulse.svg" />
+    <img width="980" alt="Ikyletwar repo pulse: 35 project repos, 9 live demos, language mix, snapshot November 2026" src="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/repo-pulse.svg" />
+  </picture>
 </p>
 
-| Metrik | Nilai |
-|---|---:|
-| Username | `Ikyletwar` |
-| Nama tampilan | `Nihongo-Web` |
-| Nama publik di portfolio | `Hizkia Letwar` |
-| Akun dibuat | `2024-11-03` |
-| Public repositories | `35` |
-| Konteks utama | Sekolah, web app, PWA, UI kit, Android, security research |
-| Bahasa terbanyak | HTML (22 repo), JavaScript (5), Kotlin (2), C/CSS/Java/Python (1 each) |
-| Deploy favorit | GitHub Pages + Vercel |
+<p align="center"><sub>Concrete snapshot from public repos, excluding this profile repository. Dynamic cards below update themselves.</sub></p>
 
 ---
 
-## Tech Stack
+## What I Build
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,java,kotlin,python,c,git,github,vscode,firebase&perline=10&theme=dark" alt="tech stack" />
-  </a>
-</p>
+| Lane | Concrete repos | What it proves |
+|---|---|---|
+| **School & community systems** | `computerclass`, `AutoJadwal-SMKN1`, `SIRA`, `school-inventory`, `absensi-late-smk`, `absensi-late-smpn38`, `nihongo-prompts` | I solve real admin/class workflows: jadwal, guru, absensi, pelanggaran, inventaris, prompt kelas. |
+| **PWA & learning apps** | `nihongo-quest`, `SeLA`, `StoryForge-AI`, `Resep-AI`, `Nihonjin-AI`, `nihongo-prompts` | Offline/static-first education tools and AI-in-browser workflows. |
+| **Premium UI & storefronts** | `Luxury-ECommerce-UI`, `Template-UI-Design`, `Template-UI-Design-2`, `modern-login-ui`, `KafeElis`, `TaskFlow-ToDo` | Dark/glassmorphism/luxury UI systems with vanilla HTML/CSS/JS. |
+| **Native & security research** | `TatsumiLoader-MLBB`, `jailbreak-prompt-corpus`, `dih-pinterest-replica`, `scraping-dan-cloningan-ujian-online`, `TikTok scraper: tiktok-scraper` | Curiosity-driven RE, scraping, prompt-injection corpus, Android/native analysis. |
+| **Media & streaming** | `zerostream`, `zerostream2`, `SimpleMusicPlayer`, `cool-luxe-villa` | Realtime web experimentation, anime streaming platform, offline Android player, Three.js villa. |
 
-### Area yang Sering Saya Sentuh
+## Signature Work
 
-| Area | Tools / Stack |
-|---|---|
-| Front-end web | HTML, CSS, Vanilla JavaScript, Tailwind CSS, responsive/mobile-first, GitHub Pages, Vercel |
-| PWA & offline-first | Service Worker, Web App Manifest, localStorage, tanpa backend |
-| UI engineering | Dark mode, glassmorphism, luxury/monochrome design, dashboard, admin panel |
-| Android | Kotlin + Jetpack Compose + Room, Java + Android SDK, offline/local-first apps |
-| Backend ringan | Express.js, SQLite/Room, REST sederhana, static hosting |
-| AI web apps | Single-file HTML + Cerebras API, prompt engineering, bring-your-own-key |
-| Reverse engineering | APK/native analysis, web app cloning for learning, prompt-injection corpus, Reqable/MT Manager-style workflow |
-| Data & scraping | Python CLI, JSON/Excel export, TikTok comments/replies scraper |
+| Project | Proof | Read |
+|---|---|---|
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | [Live](https://ikyletwar.github.io/nihongo-quest/) · JS · PWA · topics: `pwa`, `japanese`, `offline-first` | Best end-to-end sample: kana/kanji/kosakata/grammar, 8 permainan, handwriting practice, no account, no server. |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | [Live](https://ikyletwar.github.io/personal-website-v2/) · HTML/CSS/JS · topics: `kinetic-typography`, `portfolio` | Portfolio direction: monochrome premium, kinetic typography, vanilla stack. |
+| [`computerclass`](https://github.com/Ikyletwar/computerclass) | [Live](https://ikyletwar.github.io/computerclass/) · CSS/HTML/JS · 41 MB size | Official XI TJKT 1 class site: 29 siswa, galeri, jadwal, music autoplay, profiling. |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | [Live](https://ikyletwar.github.io/AutoJadwal-SMKN1/) · HTML | School schedule + teacher directory integrated with the school board schedule. |
+| [`school-inventory`](https://github.com/Ikyletwar/school-inventory) | Express + vanilla JS | Mobile-first inventory for teachers: pilih lokasi, kelola barang, ekspor CSV. |
+| [`absensi-late-smk`](https://github.com/Ikyletwar/absensi-late-smk) / [`absensi-late-smpn38`](https://github.com/Ikyletwar/absensi-late-smpn38) | Kotlin · Compose · Room | Two Android attendance + student-violation apps for SMK N 1 and SMPN 38 Maluku Tengah. |
+| [`zerostream2`](https://github.com/Ikyletwar/zerostream2) | JS · WebSocket · SQLite · JWT | Open-source anime streaming platform: realtime, auto scraper, auth, zero-subscription. |
+| [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C/C++ · NDK · forked once | Native MLBB overlay research: ESP, auto-retri, skill automation, room intel. |
+| [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML/JS/Python | Defensive corpus of jailbreak / prompt-injection prompts for detection and evaluation. |
 
----
+## Live Endpoints
 
-## Fokus Saat Ini
-
-- **PWA belajar bahasa Jepang**: [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) — kana, kanji, kosakata, tata bahasa, 8 permainan, latihan tulis tangan, offline, tanpa akun/server.
-- **Tool sekolah yang benar-benar dipakai**: jadwal SMKN 1, absensi + pelanggaran siswa, inventaris, situs kelas XI TJKT 1.
-- **Reverse engineering yang terdokumentasi**: kloning aplikasi ujian online anti-curang, replika Pinterest, analisis prompt injection, native Android loader research.
-- **UI premium yang ringan**: template auth, luxury e-commerce UI, Kafe Elis, TaskFlow, modern login/register.
-- **AI tanpa ribet**: single-file apps yang langsung jalan di browser dengan API key sendiri.
-
----
-
-## Project Pilihan
-
-<table>
-  <thead>
-    <tr><th>Project</th><th>Ringkasan</th><th>Stack / Link</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/nihongo-quest"><b>nihongo-quest</b></a></td>
-      <td>PWA belajar bahasa Jepang untuk pemula Indonesia: kana, kanji, kosakata, tata bahasa, 8 permainan, latihan tulis tangan. Offline-first, tanpa akun, tanpa server.</td>
-      <td>JavaScript · PWA · <a href="https://ikyletwar.github.io/nihongo-quest/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/personal-website-v2"><b>personal-website-v2</b></a></td>
-      <td>Portfolio Hizkia Letwar — kinetic typography, monochrome premium, HTML/CSS/JS murni.</td>
-      <td>HTML/CSS/JS · <a href="https://ikyletwar.github.io/personal-website-v2/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/computerclass"><b>computerclass</b></a></td>
-      <td>Website resmi kelas XI TJKT 1 SMK Negeri 1 Maluku Tengah: pengurus, 29 siswa, galeri, jadwal, musik latar, profil creator. Monokrom premium, tanpa framework.</td>
-      <td>HTML/CSS/Vanilla JS · <a href="https://ikyletwar.github.io/computerclass/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/AutoJadwal-SMKN1"><b>AutoJadwal-SMKN1</b></a></td>
-      <td>Aplikasi web pelacak jadwal dan direktori guru SMK Negeri 1 Maluku Tengah, terintegrasi otomatis dengan papan jadwal sekolah.</td>
-      <td>HTML · <a href="https://ikyletwar.github.io/AutoJadwal-SMKN1/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/SIRA"><b>SIRA</b></a></td>
-      <td>Sistem Razia digital untuk pencatatan & pemantauan pelanggaran siswa SMKN 1 Malteng — tanpa server, tanpa database, langsung jalan.</td>
-      <td>HTML</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/school-inventory"><b>school-inventory</b></a></td>
-      <td>Aplikasi inventaris sekolah mobile-first: pilih lokasi, kelola barang, ekspor CSV. Dibuat untuk guru.</td>
-      <td>JavaScript · Express + vanilla JS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/absensi-late-smk"><b>absensi-late-smk</b></a> / <a href="https://github.com/Ikyletwar/absensi-late-smpn38"><b>absensi-late-smpn38</b></a></td>
-      <td>Aplikasi absensi & pencatatan pelanggaran siswa SMK N 1 Maluku Tengah dan SMP Negeri 38 Maluku Tengah.</td>
-      <td>Kotlin · Compose · Room</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/chess-lan"><b>chess-lan</b></a></td>
-      <td>Catur multiplayer: lawan bot, 2 pemain lokal, atau online LAN. Mobile-first, tap-to-move, premove, aturan FIDE lengkap: rokade, en passant, promosi, skakmat, stalemate, threefold, 50-move, insufficient material.</td>
-      <td>HTML</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/zerostream2"><b>zerostream2</b></a></td>
-      <td>Platform streaming anime open source: WebSocket real-time, auto scraper, SQLite, JWT auth. Tanpa iklan, tanpa biaya berlangganan.</td>
-      <td>JavaScript · WebSocket · SQLite · JWT</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/tiktok-scraper"><b>tiktok-scraper</b></a></td>
-      <td>TikTok comment + replies scraper dengan filter link https streaming, ekspor JSON + Excel, CLI rich.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/dih-pinterest-replica"><b>dih-pinterest-replica</b></a></td>
-      <td>Replika Pinterest statis + laporan reverse engineering searchpinterest.vercel.app: masonry, mode gelap, filter foto/video/GIF, favorit, download resolusi asli. Jalan di GitHub Pages & Vercel.</td>
-      <td>JavaScript · <a href="https://ikyletwar.github.io/dih-pinterest-replica/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online"><b>scraping-dan-cloningan-ujian-online</b></a></td>
-      <td>Scraping dan cloningan aplikasi Ujian Online (Google Apps Script) anti-curang, plus versi yang diperkeras.</td>
-      <td>HTML · <a href="https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/">Live</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/jailbreak-prompt-corpus"><b>jailbreak-prompt-corpus</b></a></td>
-      <td>Corpus of identified jailbreak / prompt-injection prompts for defensive research, detection, and safety evaluation.</td>
-      <td>HTML · defensive research</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/TatsumiLoader-MLBB"><b>TatsumiLoader-MLBB</b></a></td>
-      <td>External overlay loader MLBB (root/kernel) — ESP, auto-retri, skill automation & room intel di atas codebase NDK modular.</td>
-      <td>C · native research</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/SimpleMusicPlayer"><b>SimpleMusicPlayer</b></a></td>
-      <td>Premium offline music player for Android: dark mode, custom notification, modern fintech-style UI. Pure Java + Android SDK.</td>
-      <td>Java · Android</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ikyletwar/cool-luxe-villa"><b>cool-luxe-villa</b></a></td>
-      <td>Rumah Impian — Cool Luxe Villa: interactive low-poly two-storey minimalist villa rendered real-time with Three.js, 30-second day/sunset/night light cycle. Single-file, no build step.</td>
-      <td>HTML · Three.js</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## Peta Repository
-
-### Web Sekolah & Komunitas
-
-- [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) — jadwal + direktori guru SMK N 1 Maluku Tengah. Live: <https://ikyletwar.github.io/AutoJadwal-SMKN1/>
-- [`computerclass`](https://github.com/Ikyletwar/computerclass) — website kelas XI TJKT 1. Live: <https://ikyletwar.github.io/computerclass/>
-- [`SIRA`](https://github.com/Ikyletwar/SIRA) — sistem razia digital tanpa server/database.
-- [`school-inventory`](https://github.com/Ikyletwar/school-inventory) — inventaris sekolah mobile-first + export CSV.
-- [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) — koleksi prompt AI offline untuk XI TJKT SMK N 1 Maluku Tengah. Live: <https://ikyletwar.github.io/nihongo-prompts/>
-- [`rupiahs-hunters`](https://github.com/Ikyletwar/rupiahs-hunters) — komunitas belajar bisnis, lowongan, dan bertumbuh bersama.
-
-### Android & Mobile
-
-- [`absensi-late-smk`](https://github.com/Ikyletwar/absensi-late-smk) — absensi + pelanggaran siswa SMK N 1 Malteng. Kotlin/Compose/Room.
-- [`absensi-late-smpn38`](https://github.com/Ikyletwar/absensi-late-smpn38) — absensi + pelanggaran siswa SMPN 38 Maluku Tengah. Kotlin/Compose/Room.
-- [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) — offline music player Android, pure Java.
-- [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) — MLBB external overlay loader research, NDK/C modular.
-
-### AI Web Apps (Single-file / Browser)
-
-- [`SeLA`](https://github.com/Ikyletwar/SeLA) — AI-powered quiz generator; masukkan materi, dapatkan soal PG instan. Cerebras API.
-- [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) — resep premium instan dari bahan yang tersedia. Qwen 3 235B via Cerebras AI.
-- [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) — mesin novel interaktif AI; konsekuensi permanen, memory berlapis. Cerebras AI.
-- [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) — chat web dengan AI super dingin, LaTeX, syntax highlighting, riwayat chat, sidebar.
-- [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) — prompt AI offline, statis, tanpa request jaringan.
-
-### UI Kit, Template & E-Commerce
-
-- [`Luxury-ECommerce-UI`](https://github.com/Ikyletwar/Luxury-ECommerce-UI) — Zero, luxury e-commerce dark UI design system. Vanilla HTML + Tailwind + JS.
-- [`Template-UI-Design`](https://github.com/Ikyletwar/Template-UI-Design) — dark glassmorphism auth UI.
-- [`Template-UI-Design-2`](https://github.com/Ikyletwar/Template-UI-Design-2) — modern glassmorphism auth UI, smooth animations.
-- [`modern-login-ui`](https://github.com/Ikyletwar/modern-login-ui) — dark login/register UI.
-- [`TaskFlow-ToDo`](https://github.com/Ikyletwar/TaskFlow-ToDo) — modern minimalist task manager, dark UI.
-- [`KafeElis`](https://github.com/Ikyletwar/KafeElis) — profile website Kafe Elis Karaoke & Lounge, Masohi City. Dark Premium.
-- [`text-encoder-decoder`](https://github.com/Ikyletwar/text-encoder-decoder) — multi-method encoding/encryption dalam satu web app.
-
-### Reverse Engineering & Security Research
-
-- [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) — replika Pinterest + laporan reverse engineering.
-- [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) — kloning aplikasi ujian online anti-curang + versi diperkeras.
-- [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) — corpus jailbreak/prompt-injection untuk riset defensif.
-- [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) — native Android loader research di atas NDK.
-- [`simu-web`](https://github.com/Ikyletwar/simu-web) — web simulator; lihat repo untuk detail. Live: <https://ikyletwar.github.io/simu-web/>
-
-### Streaming, Anime & Media
-
-- [`zerostream2`](https://github.com/Ikyletwar/zerostream2) — ZeroStream, open-source anime streaming platform. WebSocket, auto scraper, SQLite, JWT.
-- [`zerostream`](https://github.com/Ikyletwar/zerostream) — versi sebelumnya ZeroStream.
-- [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) — offline Android music player.
-
-### Lainnya
-
-- [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) — PWA belajar bahasa Jepang.
-- [`chess-lan`](https://github.com/Ikyletwar/chess-lan) — catur multiplayer bot/lokal/LAN dengan aturan FIDE lengkap.
-- [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) — low-poly villa real-time dengan Three.js.
-- [`Arduino-Kejur1`](https://github.com/Ikyletwar/Arduino-Kejur1) — tugas Arduino Kejur 1.
-- [`Prompt`](https://github.com/Ikyletwar/Prompt) — kumpulan prompt.
-- [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) — portfolio versi awal. Live: <https://ikyletwar.github.io/Personal-Website/>
-
----
-
-## Live Demo
-
-| Demo | URL |
+| Project | URL |
 |---|---|
 | Portfolio v2 | <https://ikyletwar.github.io/personal-website-v2/> |
 | Portfolio v1 | <https://ikyletwar.github.io/Personal-Website/> |
@@ -245,65 +85,133 @@
 | Computerclass XI TJKT 1 | <https://ikyletwar.github.io/computerclass/> |
 | AutoJadwal SMKN 1 | <https://ikyletwar.github.io/AutoJadwal-SMKN1/> |
 | Nihongo Prompts | <https://ikyletwar.github.io/nihongo-prompts/> |
-| Dih Pinterest Replica | <https://ikyletwar.github.io/dih-pinterest-replica/> |
-| Scraping/Cloningan Ujian Online | <https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/> |
+| Pinterest Replica | <https://ikyletwar.github.io/dih-pinterest-replica/> |
+| Ujian Online Clone | <https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/> |
 | SImu Web | <https://ikyletwar.github.io/simu-web/> |
 
+## Full Repository Index — 35 Project Repos
+
+<details>
+<summary>Expand full index, updated descending</summary>
+
+<table>
+<thead>
+<tr><th>Repo</th><th>Lang</th><th>Updated</th><th>Live</th><th>What it is</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://github.com/Ikyletwar/simu-web"><b>simu-web</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/simu-web/">Live</a></td><td>No description set.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/personal-website-v2"><b>personal-website-v2</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/personal-website-v2/">Live</a></td><td>Portfolio Hizkia Letwar — kinetic typography, monochrome premium, HTML/CSS/JS murni.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/dih-pinterest-replica"><b>dih-pinterest-replica</b></a></td><td>JavaScript</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/dih-pinterest-replica/">Live</a></td><td>Replika Pinterest statis + laporan reverse engineering searchpinterest.vercel.app: masonry, mode gelap, filter foto/video/GIF, favorit, download resolusi asli. Jalan di GitHub Pages &amp; Vercel.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/chess-lan"><b>chess-lan</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center">—</td><td>Catur multiplayer: lawan bot, 2 pemain lokal, atau online LAN. Mobile-first, tap-to-move, multi-premove, semua aturan FIDE (rokade, en passant, promosi, skakmat, stalemate, threefold, 50-move, insufficient material).</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/nihongo-quest"><b>nihongo-quest</b></a></td><td>JavaScript</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/nihongo-quest/">Live</a></td><td>Aplikasi web progresif belajar bahasa Jepang untuk pemula Indonesia — kana, kanji, kosakata, tata bahasa, 8 permainan, dan latihan tulis tangan. Bekerja offline, tanpa akun, tanpa server.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/cool-luxe-villa"><b>cool-luxe-villa</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center">—</td><td>Rumah Impian — Cool Luxe Villa: an interactive low-poly two-storey minimalist villa rendered in real time with Three.js, featuring a 30-second day/sunset/night light cycle. Single-file, no build step.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online"><b>scraping-dan-cloningan-ujian-online</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/">Live</a></td><td>Scraping dan Cloningan - kloning aplikasi Ujian Online (Google Apps Script) anti-curang, plus versi yang diperkeras. Terinspirasi dari aplikasi ujian online (link di README).</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Personal-Website"><b>Personal-Website</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/Personal-Website/">Live</a></td><td>Personal portfolio website of Hizkia Letwar - Elegance Is My Philosophy</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/nihongo-prompts"><b>nihongo-prompts</b></a></td><td>HTML</td><td>2026-11-03</td><td align="center"><a href="https://ikyletwar.github.io/nihongo-prompts/">Live</a></td><td>Koleksi prompt AI offline — XI TJKT, SMK Negeri 1 Maluku Tengah. Statis, tanpa backend, tanpa request jaringan.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/SimpleMusicPlayer"><b>SimpleMusicPlayer</b></a></td><td>Java</td><td>2026-10-31</td><td align="center">—</td><td>Premium offline music player for Android with dark mode, custom notification, and modern fintech-style UI. Built with pure Java + Android SDK.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/AutoJadwal-SMKN1"><b>AutoJadwal-SMKN1</b></a></td><td>HTML</td><td>2026-10-30</td><td align="center"><a href="https://ikyletwar.github.io/AutoJadwal-SMKN1/">Live</a></td><td>Aplikasi web pelacak jadwal dan direktori guru SMK Negeri 1 Maluku Tengah. Terintegrasi otomatis dengan papan jadwal sekolah.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/tiktok-scraper"><b>tiktok-scraper</b></a></td><td>Python</td><td>2026-10-04</td><td align="center">—</td><td>TikTok comment + replies scraper dengan filter link https streaming, ekspor JSON + Excel, CLI rich.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/TatsumiLoader-MLBB"><b>TatsumiLoader-MLBB</b></a></td><td>C</td><td>2026-10-04</td><td align="center">—</td><td>External overlay loader MLBB (root/kernel) — ESP, auto-retri, skill automation &amp; room intel di atas codebase NDK modular.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/jailbreak-prompt-corpus"><b>jailbreak-prompt-corpus</b></a></td><td>HTML</td><td>2026-09-26</td><td align="center">—</td><td>Corpus of identified jailbreak / prompt-injection prompts for defensive research, detection, and safety evaluation.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/computerclass"><b>computerclass</b></a></td><td>CSS</td><td>2026-09-24</td><td align="center"><a href="https://ikyletwar.github.io/computerclass/">Live</a></td><td>Website resmi kelas XI TJKT 1 SMK Negeri 1 Maluku Tengah (@coumputerclass). Desain monokrom premium, mobile-first, murni HTML+CSS+Vanilla JS tanpa framework — pengurus kelas, 29 siswa, galeri, jadwal, musik latar autoplay, dan profil creator.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/school-inventory"><b>school-inventory</b></a></td><td>JavaScript</td><td>2026-09-23</td><td align="center">—</td><td>Aplikasi inventaris sekolah mobile-first: pilih lokasi, kelola barang, ekspor CSV. Untuk guru. Express + vanilla JS.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/absensi-late-smpn38"><b>absensi-late-smpn38</b></a></td><td>Kotlin</td><td>2026-09-20</td><td align="center">—</td><td>Aplikasi absensi &amp; pencatatan pelanggaran siswa SMP Negeri 38 Maluku Tengah (Android/Kotlin+Compose+Room)</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/rupiahs-hunters"><b>rupiahs-hunters</b></a></td><td>HTML</td><td>2026-09-19</td><td align="center">—</td><td>Bukan grup instan. Tempat belajar bisnis, cari lowongan, dan bertumbuh bersama — dari niat, jadi nyata.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/absensi-late-smk"><b>absensi-late-smk</b></a></td><td>Kotlin</td><td>2026-09-14</td><td align="center">—</td><td>Aplikasi absensi &amp; pencatatan pelanggaran siswa SMK N 1 Maluku Tengah (Android/Kotlin+Compose+Room)</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Arduino-Kejur1"><b>Arduino-Kejur1</b></a></td><td>—</td><td>2026-08-26</td><td align="center">—</td><td>tugas arduino kejur 1</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/zerostream2"><b>zerostream2</b></a></td><td>JavaScript</td><td>2026-05-29</td><td align="center">—</td><td>ZeroStream – Platform streaming anime open source, gratis selamanya. WebSocket real-time, auto scraper, SQLite, autentikasi JWT. Tanpa iklan, tanpa biaya berlangganan. Dibangun untuk komunitas, oleh komunitas.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/zerostream"><b>zerostream</b></a></td><td>JavaScript</td><td>2026-05-28</td><td align="center">—</td><td>No description set.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Prompt"><b>Prompt</b></a></td><td>—</td><td>2026-05-17</td><td align="center">—</td><td>No description set.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/KafeElis"><b>KafeElis</b></a></td><td>HTML</td><td>2026-04-19</td><td align="center">—</td><td>Exclusive profile website for Kafe Elis Karaoke &amp; Lounge, Masohi City. Featuring an elegant Dark Premium visual experience, fully responsive, and modern design.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/SIRA"><b>SIRA</b></a></td><td>HTML</td><td>2026-03-25</td><td align="center">—</td><td>Sistem Razia digital berbasis web untuk pencatatan &amp; pemantauan pelanggaran siswa SMKN 1 Malteng — tanpa server, tanpa database, langsung jalan.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/StoryForge-AI"><b>StoryForge-AI</b></a></td><td>HTML</td><td>2026-03-21</td><td align="center">—</td><td>📖 Mesin novel interaktif berbasis AI — cerita mengalir mulus, konsekuensi permanen, sistem memori berlapis. Single HTML file, powered by Cerebras AI. Bring your own API key.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Resep-AI"><b>Resep-AI</b></a></td><td>HTML</td><td>2026-03-21</td><td align="center">—</td><td>🍽️ Aplikasi web single-file berbasis AI untuk menghasilkan resep masakan premium secara instan dari bahan yang tersedia — didukung model Qwen 3 235B via Cerebras AI, tanpa instalasi, langsung buka di browser.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Nihonjin-AI"><b>Nihonjin-AI</b></a></td><td>HTML</td><td>2026-03-21</td><td align="center">—</td><td>Nihonjin-AI – Antarmuka chat web dengan AI super dingin, didukung API Cerebras. LaTeX, syntax highlighting, riwayat chat, sidebar manajemen. HTML/CSS/JS murni. Ganti API key sebelum pakai.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/SeLA"><b>SeLA</b></a></td><td>HTML</td><td>2026-03-19</td><td align="center">—</td><td>AI-powered quiz generator berbasis web. Masukkan materi, dapatkan soal pilihan ganda instan. Built with vanilla JS + Cerebras API.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/TaskFlow-ToDo"><b>TaskFlow-ToDo</b></a></td><td>HTML</td><td>2026-03-15</td><td align="center">—</td><td>Modern, minimalist task management app with beautiful dark UI</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Luxury-ECommerce-UI"><b>Luxury-ECommerce-UI</b></a></td><td>HTML</td><td>2026-03-15</td><td align="center">—</td><td>Zero — Luxury E-Commerce UI Design System. World-class dark-themed premium e-commerce interface built with Vanilla HTML, Tailwind CSS &amp; JavaScript</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Template-UI-Design-2"><b>Template-UI-Design-2</b></a></td><td>HTML</td><td>2026-03-14</td><td align="center">—</td><td>Modern glassmorphism authentication UI template with smooth animations and dark theme. Built with HTML, Tailwind CSS, and Vanilla JavaScript.</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/Template-UI-Design"><b>Template-UI-Design</b></a></td><td>HTML</td><td>2026-03-14</td><td align="center">—</td><td>Template UI Design - Modern dark-themed authentication UI dengan animasi smooth dan glassmorphism effect</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/text-encoder-decoder"><b>text-encoder-decoder</b></a></td><td>HTML</td><td>2026-03-13</td><td align="center">—</td><td>Transformasi teks dengan berbagai metode encoding dan enkripsi dalam satu aplikasi web yang modern dan elegan</td></tr>
+<tr><td><a href="https://github.com/Ikyletwar/modern-login-ui"><b>modern-login-ui</b></a></td><td>HTML</td><td>2026-03-13</td><td align="center">—</td><td>Modern dark-themed login/register UI dengan animasi smooth dan desain elegan</td></tr>
+</tbody>
+</table>
+
+</details>
+
 ---
 
-## GitHub Stats
+## Stack & Tools
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ikyletwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyletwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,cpp,c,java,kotlin,python,git,github,vscode,firebase&perline=10&theme=dark" alt="Ikyletwar tech stack" />
+  </a>
+</p>
+
+| Layer | Details |
+|---|---|
+| Front-end | HTML, CSS, Vanilla JS, Tailwind CSS, responsive/mobile-first, GitHub Pages, Vercel |
+| App model | Static-first, PWA/offline-first, localStorage/Room, no backend unless it earns its place |
+| Android | Kotlin + Jetpack Compose + Room, Java + Android SDK, NDK/C research |
+| AI in browser | Cerebras API workflows, bring-your-own-key SPAs, prompt engineering |
+| RE / security | radare2, Ghidra-style decompilation, Frida-style dynamic analysis, apktool, mitmproxy, Reqable/MT Manager workflow |
+| Data / automation | Python CLI, JSON/Excel export, web scraping, Google Apps Script clone analysis |
+
+## GitHub Profile Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikyletwar&theme=tokyonight" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ikyletwar&theme=tokyonight" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ikyletwar&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ikyletwar&theme=tokyonight" alt="productive time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ikyletwar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ikyletwar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ikyletwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikyletwar&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
----
-
-## Contributions
+## Contribution Grid
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid.svg" />
+    <img alt="Ikyletwar contribution grid, 128 contributions in the last year" src="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid.svg" />
   </picture>
 </p>
 
 ---
 
-## Cara Saya Bekerja
+## Operating Principles
 
-1. **Mulai dari masalah nyata** — biasanya dari kebutuhan kelas, sekolah, atau komunitas.
-2. **Bikin versi paling sederhana yang jalan** — statis dulu kalau bisa, tanpa build step kalau tidak perlu.
-3. **Deploy cepat** — GitHub Pages/Vercel agar bisa langsung dipakai dan dites di HP.
-4. **Iterasi dari pemakaian** — perbaiki UI, data, performa, dan edge case setelah dipakai.
-5. **Dokumentasikan secukupnya** — README yang jelas, screenshot kalau perlu, link live demo.
+| # | Principle | In practice |
+|---:|---|---|
+| 1 | **Masalah dulu, solusi kemudian** | Most repos start from a real school/community/admin problem, not from a tutorial. |
+| 2 | **Static before server** | If a single HTML file can ship it, it ships as HTML/CSS/JS first. |
+| 3 | **Offline kalau bisa** | PWA, localStorage, Room, static prompt packs: network is optional when possible. |
+| 4 | **Deploy cepat, lalu rapikan** | GitHub Pages/Vercel early; then polish UI, data, and edge cases. |
+| 5 | **Dokumentasi yang cukup** | README with live link, concrete scope, and honest limitations. |
+| 6 | **Security with context** | RE and prompt-injection work are for learning, defensive evaluation, and authorized assets. |
 
----
+## Current Signal
 
-## Kontak & Link
+```text
+Now   : school ops tooling, PWA learning Japanese, RE writeups, premium vanilla UI
+Next  : tighter READMEs, better empty-state data, performance pass, more Android/Compose depth
+Rule  : bikin sampai jalan dulu, lalu perbaiki sampai layak dipakai
+```
+
+## Contact
 
 <p align="center">
-  <a href="https://github.com/Ikyletwar"><img src="https://img.shields.io/badge/GitHub-Ikyletwar-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://ikyletwar.github.io/personal-website-v2/"><img src="https://img.shields.io/badge/Portfolio-personal--website--v2-38bdf8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://ikyletwar.github.io/nihongo-quest/"><img src="https://img.shields.io/badge/PWA-Nihongo%20Quest-22c55e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Nihongo Quest" /></a>
+  <a href="https://github.com/Ikyletwar"><img src="https://img.shields.io/badge/GitHub-@Ikyletwar-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+  <a href="https://ikyletwar.github.io/personal-website-v2/"><img src="https://img.shields.io/badge/PORTFOLIO-personal--website--v2-155e75?style=for-the-badge&logo=vercel&logoColor=f8fafc" alt="Portfolio" /></a>
+  <a href="https://ikyletwar.github.io/nihongo-quest/"><img src="https://img.shields.io/badge/PWA-Nihongo%20Quest-f59e0b?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Nihongo Quest" /></a>
 </p>
 
-<p align="center">
-  <sub>Built with HTML, CSS, JavaScript, and curiosity.</sub>
-</p>
+<p align="center"><sub>No fake metrics. Numbers here come from public repo metadata; dynamic cards may change as GitHub updates.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:0f172a&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,32:155e75,68:0f172a,100:020617&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
