@@ -173,8 +173,20 @@ bio: "I'm Back."
   <img src="https://streak-stats.demolab.com?user=Ikyletwar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" alt="GitHub streak" />
 </p>
 
-## Contribution Grid
+## Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake.svg" />
+    <img width="722" alt="Ikyletwar contribution snake animation, 128 contributions in the last year" src="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>Animated SVG snake generated from the public contribution calendar. Static grid fallback:</sub></p>
+
+<details>
+<summary>Show static contribution grid</summary>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid-dark.svg" />
@@ -182,6 +194,7 @@ bio: "I'm Back."
     <img alt="Ikyletwar contribution grid, 128 contributions in the last year" src="https://raw.githubusercontent.com/Ikyletwar/Ikyletwar/output/github-contribution-grid.svg" />
   </picture>
 </p>
+</details>
 
 ---
 
