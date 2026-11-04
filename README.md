@@ -37,6 +37,18 @@ bio: "I'm Back."
 
 > _“I'm Back.” — GitHub bio_
 
+## About Me
+
+Saya Hizkia Letwar, siswa **XI TJKT 1 di SMK Negeri 1 Maluku Tengah** — jurusan Teknik Jaringan Komputer dan Telekomunikasi. Banyak project saya berangkat dari hal yang dekat dengan sekolah dan komunitas: jadwal pelajaran, direktori guru, absensi, pencatatan pelanggaran, inventaris barang, situs kelas, dan prompt AI untuk teman-teman TJKT. Saya lebih suka membangun tool yang benar-benar dipakai daripada sekadar demo yang berhenti di localhost.
+
+Benang merahnya adalah rasa penasaran: bagaimana sebuah sistem bekerja, bagaimana ia gagal, dan bagaimana saya bisa membuatnya lebih berguna. Itu alasan saya masuk ke web apps, PWA offline-first, Android (Kotlin/Compose/Room dan Java), reverse engineering, OSINT, dan prompt-injection research. Saya suka mulai dari problem nyata, bikin versi paling sederhana yang jalan, deploy dulu, lalu perbaiki sampai layak dipakai.
+
+Minat yang paling sering muncul di repo saya: **bahasa Jepang** (`nihongo-quest`, `nihongo-prompts`, `Nihonjin-AI`), **anime dan platform streaming** (`zerostream`, `zerostream2`), **catur** (`chess-lan`), **UI premium / dark mode / glassmorphism** (`Luxury-ECommerce-UI`, template login/auth), **AI di browser** (`SeLA`, `Resep-AI`, `StoryForge-AI`, `Nihonjin-AI`), dan **keamanan aplikasi** (`jailbreak-prompt-corpus`, `dih-pinterest-replica`, `scraping-dan-cloningan-ujian-online`, `TatsumiLoader-MLBB`).
+
+Cara saya bekerja sederhana: statis dulu kalau bisa, offline kalau memungkinkan, mobile-first selalu, backend hanya kalau memang perlu. Saya nyaman dengan HTML/CSS/JavaScript murni, lalu naik ke PWA, Express/SQLite/Room, sampai native C/NDK kalau projectnya menuntut. Saya tidak terlalu tertarik pada kompleksitas buatan; saya tertarik pada tool yang menyelesaikan masalah, terlihat rapi, dan bisa dites langsung di HP.
+
+Singkatnya: saya seorang pelajar TJKT yang suka membangun, membongkar, lalu membangun lagi — dari aplikasi sekolah, web portofolio, sampai riset keamanan yang terdokumentasi.
+
 ## Repo Pulse
 
 <p align="center">
