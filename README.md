@@ -10,6 +10,8 @@
   <a href="https://github.com/Ikyletwar/Ikyletwar/actions"><img src="assets/badges/pipeline.svg" height="28" alt="asset pipeline passing" /></a>
 </p>
 
+<br />
+
 <img src="assets/marquee.svg" width="100%" alt="stack marquee" />
 
 ## `/whoami --verbose`
@@ -52,9 +54,9 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 
 <!-- AUTO:CARDS -->
 <table>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/putra-lordian"><img src="assets/cards/putra-lordian.svg" alt="putra-lordian —" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/putra-lordian">Repo ↗</a> · <a href="https://ikyletwar.github.io/putra-lordian/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nilai-akhir-smk"><img src="assets/cards/nilai-akhir-smk.svg" alt="nilai-akhir-smk — Kalkulator nilai akhir SMK: hitung nilai berbobot, predikat, KKM, export CSV. Vanilla HTML/…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nilai-akhir-smk">Repo ↗</a> · <a href="https://ikyletwar.github.io/nilai-akhir-smk/">Live ↗</a></sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-prompts"><img src="assets/cards/nihongo-prompts.svg" alt="nihongo-prompts — Koleksi prompt AI offline — XI TJKT, SMK Negeri 1 Maluku Tengah. Statis, tanpa backend, tan…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-prompts">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-prompts/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/simu-web"><img src="assets/cards/simu-web.svg" alt="simu-web —" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/simu-web">Repo ↗</a> · <a href="https://ikyletwar.github.io/simu-web/">Live ↗</a></sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nilai-akhir-smk"><img src="assets/cards/nilai-akhir-smk.svg" alt="nilai-akhir-smk — Kalkulator nilai akhir SMK: hitung nilai berbobot, predikat, KKM, export CSV. Vanilla HTML/…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nilai-akhir-smk">Repo ↗</a> · <a href="https://ikyletwar.github.io/nilai-akhir-smk/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-prompts"><img src="assets/cards/nihongo-prompts.svg" alt="nihongo-prompts — Koleksi prompt AI offline — XI TJKT, SMK Negeri 1 Maluku Tengah. Statis, tanpa backend, tan…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-prompts">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-prompts/">Live ↗</a></sub></td></tr>
 <tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/personal-website-v2"><img src="assets/cards/personal-website-v2.svg" alt="personal-website-v2 — Portfolio Hizkia Letwar — kinetic typography, monochrome premium, HTML/CSS/JS murni." width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/personal-website-v2">Repo ↗</a> · <a href="https://ikyletwar.github.io/personal-website-v2/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/dih-pinterest-replica"><img src="assets/cards/dih-pinterest-replica.svg" alt="dih-pinterest-replica — Replika Pinterest statis + laporan reverse engineering searchpinterest.vercel.app: ma…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/dih-pinterest-replica">Repo ↗</a> · <a href="https://ikyletwar.github.io/dih-pinterest-replica/">Live ↗</a></sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-quest"><img src="assets/cards/nihongo-quest.svg" alt="nihongo-quest — Aplikasi web progresif belajar bahasa Jepang untuk pemula Indonesia — kana, kanji, kosakata…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-quest">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-quest/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/cool-luxe-villa"><img src="assets/cards/cool-luxe-villa.svg" alt="cool-luxe-villa — Rumah Impian — Cool Luxe Villa: an interactive low-poly two-storey minimalist villa rendere…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/cool-luxe-villa">Repo ↗</a> · <a href="https://ikyletwar.github.io/cool-luxe-villa/">Live ↗</a></sub></td></tr>
 <tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/exam-smkn1-malteng"><img src="assets/cards/exam-smkn1-malteng.svg" alt="exam-smkn1-malteng — Aplikasi ujian berbasis web SMKN 1 Malteng dengan fitur anti-cheat: alarm background, vo…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/exam-smkn1-malteng">Repo ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/MinimapViewer"><img src="assets/cards/MinimapViewer.svg" alt="MinimapViewer — Android overlay HUD yang menampilkan posisi entity game real-time via UDP snapshot dari sende…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/MinimapViewer">Repo ↗</a></sub></td></tr>
 </table>
 <!-- /AUTO:CARDS -->
@@ -69,7 +71,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 27m ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 29m ago |
 | [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 8h ago |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 22h ago |
 | [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 1d ago |
@@ -228,7 +230,7 @@ flowchart LR
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-10 10:05 UTC`
+`last sync 2026-11-10 10:07 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />

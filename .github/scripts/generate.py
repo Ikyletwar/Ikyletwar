@@ -643,7 +643,6 @@ def build_dashboard(data: dict) -> str:
     body = f"""
 <rect width="{w}" height="{h}" rx="18" fill="url(#dg)"/>
 <rect width="{w}" height="{h}" rx="18" fill="url(#dgrid)"/>
-<text x="28" y="18" font-family="{MONO}" font-size="10" letter-spacing="2" fill="{C['dim']}"> </text>
 {''.join(tiles)}
 <text x="44" y="158" font-family="{MONO}" font-size="10.5" letter-spacing="2.4" fill="{C['cyan']}">LANGUAGE MIX — BYTES OF CODE</text>
 {''.join(bars)}
@@ -972,7 +971,11 @@ def inject(readme: str, name: str, block: str) -> str:
 
 
 def featured(data: dict, limit: int = 8) -> list[dict]:
-    ranked = sorted(data["repos"], key=lambda r: (bool(r["live"]), r["pushed"] or ""), reverse=True)
+    ranked = sorted(
+        [r for r in data["repos"] if r["desc"]],
+        key=lambda r: (bool(r["live"]), r["pushed"] or ""),
+        reverse=True,
+    )
     picked, seen_lang = [], set()
     for repo in ranked:
         if repo["lang"] in seen_lang and len(picked) >= limit - 2:
