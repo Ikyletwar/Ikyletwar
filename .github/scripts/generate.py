@@ -906,7 +906,7 @@ def cards_block(data: dict) -> str:
             extra = f' · <a href="{esc(repo["live"])}">Live ↗</a>' if repo["live"] else ""
             cells.append(
                 f'<td width="50%" align="center" valign="top">'
-                f'<a href="{link}"><img src="assets/cards/{repo["name"]}.svg" alt="{esc(clip(repo["name"] + " — " + repo["desc"], 110))}" width="420" height="172" /></a>'
+                f'<a href="{link}"><img src="assets/cards/{repo["name"]}.svg" alt="{esc(clip(repo["name"] + " — " + repo["desc"], 110))}" width="100%" /></a>'
                 f"<br><sub><a href=\"{link}\">Repo ↗</a>{extra}</sub></td>"
             )
         if len(cells) == 1:
