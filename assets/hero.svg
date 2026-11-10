@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" fill="none" role="img"><defs>
+<linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#03060d"/><stop offset=".55" stop-color="#071120"/><stop offset="1" stop-color="#0b1a2e"/>
+</linearGradient>
+<radialGradient id="aur1" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="aur2" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#a78bfa" stop-opacity=".5"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="aur3" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#fbbf24" stop-opacity=".35"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#e6f1ff"><animate attributeName="stop-color" values="#e6f1ff;#22d3ee;#a78bfa;#e6f1ff" dur="12s" repeatCount="indefinite"/></stop>
+  <stop offset=".5" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a78bfa;#fbbf24;#22d3ee" dur="12s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#22d3ee;#e6f1ff;#a78bfa" dur="12s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+  <path d="M34 0H0V34" stroke="#17324a" stroke-opacity=".55" stroke-width="1"/>
+</pattern>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="26"/>
+</filter>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<mask id="typingmask">
+  <rect x="62" y="278" width="0" height="30" fill="#fff">
+    <animate attributeName="width" values="0;0;660;660;0" keyTimes="0;.08;.44;.9;1" dur="15s" repeatCount="indefinite"/>
+  </rect>
+</mask>
+</defs>
+<rect width="1280" height="430" rx="18" fill="url(#hg)"/>
+<rect width="1280" height="430" rx="18" fill="url(#grid)" opacity=".5"/>
+<g filter="url(#soft)" opacity=".9">
+  <circle cx="240" cy="90" r="170" fill="url(#aur1)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;70,34;0,0" dur="17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="120" r="190" fill="url(#aur2)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-84,48;0,0" dur="21s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="380" r="150" fill="url(#aur3)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;40,-34;0,0" dur="14s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- scanline -->
+<rect x="0" y="-4" width="1280" height="3" fill="#22d3ee" opacity=".18">
+  <animate attributeName="y" values="-4;434" dur="7.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- frame corners -->
+<g stroke="#22d3ee" stroke-opacity=".55" stroke-width="1.4" fill="none">
+  <path d="M18 58V18h40"/><path d="M1262 58V18h-40"/>
+  <path d="M18 372v40h40"/><path d="M1262 372v40h-40"/>
+</g>
+
+<!-- status -->
+<g>
+  <circle cx="36" cy="36" r="4.5" fill="#34d399">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="50" y="40.5" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#7d93ad">ONLINE · AUTO-GENERATED · 2026-11-10 09:51 UTC</text>
+</g>
+<text x="1244" y="40.5" text-anchor="end" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#7d93ad">@Ikyletwar</text>
+
+<!-- name -->
+<text x="64" y="176" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" letter-spacing="7" fill="#22d3ee" opacity=".9">SYSTEMS · APPS · RESEARCH</text>
+<g filter="url(#glow)">
+  <text x="62" y="262" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="800" letter-spacing="-1.5" fill="url(#nameg)">HIZKIA LETWAR</text>
+</g>
+<text x="64" y="296" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="15" fill="#7d93ad" mask="url(#typingmask)">static-first · offline-first · mobile-first · reverse-engineering</text>
+<rect x="730" y="281" width="2" height="19" fill="#22d3ee">
+  <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- chips -->
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".6s" begin="0.9s" fill="freeze"/>
+  <rect x="64" y="334" width="196" height="54" rx="13" fill="#061021" fill-opacity=".85" stroke="#22d3ee" stroke-opacity=".42"/>
+  <rect x="64" y="334" width="4" height="54" rx="2" fill="#22d3ee">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="84" y="357" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="2.2" fill="#7d93ad">FOCUS</text>
+  <text x="84" y="378" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#e6f1ff">WEB / PWA / ANDROID</text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.15s" fill="freeze"/>
+  <rect x="276" y="334" width="196" height="54" rx="13" fill="#061021" fill-opacity=".85" stroke="#a78bfa" stroke-opacity=".42"/>
+  <rect x="276" y="334" width="4" height="54" rx="2" fill="#a78bfa">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" begin="1.15s" repeatCount="indefinite"/>
+  </rect>
+  <text x="296" y="357" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="2.2" fill="#7d93ad">PROJECT REPOS</text>
+  <text x="296" y="378" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#e6f1ff">43</text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.4s" fill="freeze"/>
+  <rect x="488" y="334" width="196" height="54" rx="13" fill="#061021" fill-opacity=".85" stroke="#fbbf24" stroke-opacity=".42"/>
+  <rect x="488" y="334" width="4" height="54" rx="2" fill="#fbbf24">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="508" y="357" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="2.2" fill="#7d93ad">LIVE DEMOS</text>
+  <text x="508" y="378" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#e6f1ff">25</text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.65s" fill="freeze"/>
+  <rect x="700" y="334" width="196" height="54" rx="13" fill="#061021" fill-opacity=".85" stroke="#34d399" stroke-opacity=".42"/>
+  <rect x="700" y="334" width="4" height="54" rx="2" fill="#34d399">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" begin="1.65s" repeatCount="indefinite"/>
+  </rect>
+  <text x="720" y="357" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="2.2" fill="#7d93ad">CONTRIBUTIONS / YR</text>
+  <text x="720" y="378" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#e6f1ff">139</text>
+</g>
+
+<!-- corner glyph -->
+<g opacity=".5" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10" fill="#7d93ad">
+  <text x="1240" y="400" text-anchor="end">rendered by generate.py</text>
+</g>
+</svg>

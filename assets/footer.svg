@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" fill="none" role="img"><defs>
+<linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#fbbf24"/>
+</linearGradient>
+</defs>
+<rect width="1280" height="150" rx="16" fill="#050b15"/>
+<g opacity=".85">
+  <path d="M0 70 C 120 30, 240 110, 360 70 S 600 30, 720 70 S 960 110, 1080 70 S 1260 40, 1280 62" stroke="url(#fg)" stroke-width="2" fill="none">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-60,0;0,0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 70 C 120 30, 240 110, 360 70 S 600 30, 720 70 S 960 110, 1080 70 S 1260 40, 1280 62" stroke="url(#fg)" stroke-width="2" fill="none" opacity=".35" transform="translate(0,14)">
+    <animateTransform attributeName="transform" type="translate" values="0,14;60,14;0,14" dur="18s" repeatCount="indefinite"/>
+  </path>
+</g>
+<text x="640.0" y="46" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">bikin sampai jalan dulu, lalu perbaiki sampai layak dipakai</text>
+<text x="640.0" y="110" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" fill="#7d93ad">43 repos · 25 live demos · 139 contributions · generated 2026-11-10</text>
+</svg>
