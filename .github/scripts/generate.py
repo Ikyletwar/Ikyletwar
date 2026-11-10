@@ -1023,7 +1023,7 @@ def live_block(data: dict) -> str:
     lines = ["| Project | Live endpoint | Stack |", "|---|---|---|"]
     for repo in live:
         lines.append(
-            f"| [`{repo['name']}`](https://github.com/{LOGIN}/{repo['name']}) | <{repo['live']}> | {repo['lang']} |"
+            f"| [`{repo['name']}`](https://github.com/{LOGIN}/{repo['name']}) | [live ↗]({repo['live']}) | {repo['lang']} |"
         )
     if not live:
         lines.append("| — | — | — |")

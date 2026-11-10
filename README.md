@@ -71,7 +71,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 32m ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 31m ago |
 | [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 8h ago |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 22h ago |
 | [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 1d ago |
@@ -123,31 +123,31 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:LIVE -->
 | Project | Live endpoint | Stack |
 |---|---|---|
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | <https://ikyletwar.github.io/AutoJadwal-SMKN1/> | HTML |
-| [`computerclass`](https://github.com/Ikyletwar/computerclass) | <https://ikyletwar.github.io/computerclass/> | CSS |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | <https://ikyletwar.github.io/cool-luxe-villa/> | HTML |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | <https://ikyletwar.github.io/dih-pinterest-replica/> | JavaScript |
-| [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | <https://ikyletwar.github.io/KafeElis/> | HTML |
-| [`Luxury-ECommerce-UI`](https://github.com/Ikyletwar/Luxury-ECommerce-UI) | <https://ikyletwar.github.io/Luxury-ECommerce-UI/> | HTML |
-| [`modern-login-ui`](https://github.com/Ikyletwar/modern-login-ui) | <https://ikyletwar.github.io/modern-login-ui/> | HTML |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | <https://ikyletwar.github.io/nihongo-prompts/> | HTML |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | <https://ikyletwar.github.io/nihongo-quest/> | JavaScript |
-| [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | <https://ikyletwar.github.io/Nihonjin-AI/> | HTML |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | <https://ikyletwar.github.io/nilai-akhir-smk/> | CSS |
-| [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) | <https://ikyletwar.github.io/Personal-Website/> | HTML |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | <https://ikyletwar.github.io/personal-website-v2/> | HTML |
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | <https://ikyletwar.github.io/putra-lordian/> | JavaScript |
-| [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) | <https://ikyletwar.github.io/Resep-AI/> | HTML |
-| [`rupiahs-hunters`](https://github.com/Ikyletwar/rupiahs-hunters) | <https://ikyletwar.github.io/rupiahs-hunters/> | HTML |
-| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | <https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/> | HTML |
-| [`SeLA`](https://github.com/Ikyletwar/SeLA) | <https://ikyletwar.github.io/SeLA/> | HTML |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | <https://ikyletwar.github.io/simu-web/> | HTML |
-| [`SIRA`](https://github.com/Ikyletwar/SIRA) | <https://ikyletwar.github.io/SIRA/> | HTML |
-| [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | <https://ikyletwar.github.io/StoryForge-AI/> | HTML |
-| [`TaskFlow-ToDo`](https://github.com/Ikyletwar/TaskFlow-ToDo) | <https://ikyletwar.github.io/TaskFlow-ToDo/> | HTML |
-| [`Template-UI-Design`](https://github.com/Ikyletwar/Template-UI-Design) | <https://ikyletwar.github.io/Template-UI-Design/> | HTML |
-| [`Template-UI-Design-2`](https://github.com/Ikyletwar/Template-UI-Design-2) | <https://ikyletwar.github.io/Template-UI-Design-2/> | HTML |
-| [`text-encoder-decoder`](https://github.com/Ikyletwar/text-encoder-decoder) | <https://ikyletwar.github.io/text-encoder-decoder/> | HTML |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | [live ↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | HTML |
+| [`computerclass`](https://github.com/Ikyletwar/computerclass) | [live ↗](https://ikyletwar.github.io/computerclass/) | CSS |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | [live ↗](https://ikyletwar.github.io/cool-luxe-villa/) | HTML |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | [live ↗](https://ikyletwar.github.io/dih-pinterest-replica/) | JavaScript |
+| [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | [live ↗](https://ikyletwar.github.io/KafeElis/) | HTML |
+| [`Luxury-ECommerce-UI`](https://github.com/Ikyletwar/Luxury-ECommerce-UI) | [live ↗](https://ikyletwar.github.io/Luxury-ECommerce-UI/) | HTML |
+| [`modern-login-ui`](https://github.com/Ikyletwar/modern-login-ui) | [live ↗](https://ikyletwar.github.io/modern-login-ui/) | HTML |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | [live ↗](https://ikyletwar.github.io/nihongo-prompts/) | HTML |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | [live ↗](https://ikyletwar.github.io/nihongo-quest/) | JavaScript |
+| [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | [live ↗](https://ikyletwar.github.io/Nihonjin-AI/) | HTML |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | [live ↗](https://ikyletwar.github.io/nilai-akhir-smk/) | CSS |
+| [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) | [live ↗](https://ikyletwar.github.io/Personal-Website/) | HTML |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | [live ↗](https://ikyletwar.github.io/personal-website-v2/) | HTML |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | [live ↗](https://ikyletwar.github.io/putra-lordian/) | JavaScript |
+| [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) | [live ↗](https://ikyletwar.github.io/Resep-AI/) | HTML |
+| [`rupiahs-hunters`](https://github.com/Ikyletwar/rupiahs-hunters) | [live ↗](https://ikyletwar.github.io/rupiahs-hunters/) | HTML |
+| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | [live ↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | HTML |
+| [`SeLA`](https://github.com/Ikyletwar/SeLA) | [live ↗](https://ikyletwar.github.io/SeLA/) | HTML |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | [live ↗](https://ikyletwar.github.io/simu-web/) | HTML |
+| [`SIRA`](https://github.com/Ikyletwar/SIRA) | [live ↗](https://ikyletwar.github.io/SIRA/) | HTML |
+| [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | [live ↗](https://ikyletwar.github.io/StoryForge-AI/) | HTML |
+| [`TaskFlow-ToDo`](https://github.com/Ikyletwar/TaskFlow-ToDo) | [live ↗](https://ikyletwar.github.io/TaskFlow-ToDo/) | HTML |
+| [`Template-UI-Design`](https://github.com/Ikyletwar/Template-UI-Design) | [live ↗](https://ikyletwar.github.io/Template-UI-Design/) | HTML |
+| [`Template-UI-Design-2`](https://github.com/Ikyletwar/Template-UI-Design-2) | [live ↗](https://ikyletwar.github.io/Template-UI-Design-2/) | HTML |
+| [`text-encoder-decoder`](https://github.com/Ikyletwar/text-encoder-decoder) | [live ↗](https://ikyletwar.github.io/text-encoder-decoder/) | HTML |
 <!-- /AUTO:LIVE -->
 
 ## Signature Work
@@ -230,7 +230,7 @@ flowchart LR
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-10 10:10 UTC`
+`last sync 2026-11-10 10:09 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
