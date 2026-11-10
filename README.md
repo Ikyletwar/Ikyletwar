@@ -69,7 +69,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 25m ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 27m ago |
 | [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 8h ago |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 22h ago |
 | [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 1d ago |
@@ -228,7 +228,7 @@ flowchart LR
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-10 10:03 UTC`
+`last sync 2026-11-10 10:05 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
