@@ -607,7 +607,7 @@ def build_dashboard(data: dict) -> str:
             f'<g><text x="44" y="{y + 13}" font-family="{MONO}" font-size="12.5" fill="{C["text"]}">{esc(lang)}</text>'
             f'<text x="640" y="{y + 13}" text-anchor="end" font-family="{MONO}" font-size="12" fill="{C["dim"]}">{pct * 100:.1f}%</text>'
             f'<rect x="44" y="{y + 21}" width="{600}" height="8" rx="4" fill="#0d2136"/>'
-            f'<rect x="44" y="{y + 21}" width="0" height="8" rx="4" fill="{color}">'
+            f'<rect x="44" y="{y + 21}" width="{max(6, int(600 * pct))}" height="8" rx="4" fill="{color}">'
             f'<animate attributeName="width" from="0" to="{max(6, int(600 * pct))}" dur="1.5s" begin="{0.4 + i * .12:.2f}s" fill="freeze" calcMode="spline" keySplines=".22,1,.36,1" keyTimes="0;1"/></rect></g>'
         )
 
@@ -622,7 +622,7 @@ def build_dashboard(data: dict) -> str:
         dash = circumference * share
         arcs.append(
             f'<circle cx="{cx}" cy="{cy}" r="{r}" stroke="{color}" stroke-width="20" fill="none" '
-            f'stroke-dasharray="0 {circumference:.2f}" stroke-dashoffset="{-offset:.2f}" transform="rotate(-90 {cx} {cy})" opacity=".95">'
+            f'stroke-dasharray="{dash:.2f} {circumference - dash:.2f}" stroke-dashoffset="{-offset:.2f}" transform="rotate(-90 {cx} {cy})" opacity=".95">'
             f'<animate attributeName="stroke-dasharray" from="0 {circumference:.2f}" to="{dash:.2f} {circumference - dash:.2f}" dur="1.4s" begin="{0.5 + i * .15:.2f}s" fill="freeze"/>'
             f"</circle>"
         )
