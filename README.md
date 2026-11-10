@@ -71,7 +71,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 32m ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 35m ago |
 | [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 8h ago |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 22h ago |
 | [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 1d ago |
@@ -213,14 +213,7 @@ RULE  bikin sampai jalan dulu, lalu perbaiki sampai layak dipakai
 
 README ini adalah **artefak build**, bukan dokumen manual.
 
-```mermaid
-flowchart LR
-  A[GitHub API<br/>REST + GraphQL] --> B[.github/scripts/generate.py]
-  B --> C[assets/*.svg<br/>hero · terminal · dashboard · signal · snake]
-  B --> D[README.md<br/>AUTO:CARDS · AUTO:INDEX · AUTO:LIVE]
-  C --> E[commit ke main]
-  D --> E
-```
+<img src="assets/pipeline.svg" width="100%" alt="pipeline auto-generate README" />
 
 - **Trigger:** harian (`cron`), push ke `main`, dan `workflow_dispatch`.
 - **Auto-detect:** repo baru, deskripsi, bahasa utama (bytes), stars/forks, GitHub Pages aktif, dan push terakhir.
@@ -230,7 +223,7 @@ flowchart LR
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-10 10:11 UTC`
+`last sync 2026-11-10 10:13 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />

@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="262" viewBox="0 0 1180 262" fill="none" role="img">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b15"/>
+      <stop offset="1" stop-color="#081a2c"/>
+    </linearGradient>
+    <linearGradient id="pflow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <filter id="pglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="pgrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" stroke="#17324a" stroke-opacity=".35"/>
+    </pattern>
+    <marker id="parrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#22d3ee" fill-opacity=".8"/>
+    </marker>
+  </defs>
+
+  <rect width="1180" height="262" rx="16" fill="url(#pbg)"/>
+  <rect width="1180" height="262" rx="16" fill="url(#pgrid)"/>
+  <text x="28" y="34" font-family="ui-monospace,Consolas,monospace" font-size="10.5" letter-spacing="2.4" fill="#22d3ee">PIPELINE — README SEBAGAI ARTEFAK BUILD</text>
+  <text x="1152" y="34" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#7d93ad">cron · push · dispatch</text>
+
+  <!-- konektor -->
+  <g stroke="url(#pflow)" stroke-width="2" fill="none" stroke-dasharray="7 7" marker-end="url(#parrow)">
+    <path d="M236 156H274">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M488 156C506 156 506 58 524 58">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M488 156C506 156 506 204 524 204">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M738 58C758 58 758 156 776 156">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M738 204C758 204 758 156 776 156">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- paket data yang mengalir -->
+  <g filter="url(#pglow)">
+    <circle r="3.5" fill="#22d3ee">
+      <animateMotion dur="2.4s" repeatCount="indefinite" path="M236 156H274"/>
+    </circle>
+    <circle r="3.5" fill="#a78bfa">
+      <animateMotion dur="3.2s" repeatCount="indefinite" path="M488 156C506 156 506 58 524 58"/>
+    </circle>
+    <circle r="3.5" fill="#fbbf24">
+      <animateMotion dur="3.6s" begin=".5s" repeatCount="indefinite" path="M488 156C506 156 506 204 524 204"/>
+    </circle>
+  </g>
+
+  <!-- node A -->
+  <g>
+    <rect x="24" y="118" width="212" height="76" rx="13" fill="#061021" stroke="#17324a"/>
+    <rect x="24" y="118" width="4" height="76" rx="2" fill="#22d3ee"/>
+    <text x="44" y="148" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">GitHub API</text>
+    <text x="44" y="170" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#7d93ad">REST + GraphQL</text>
+    <text x="44" y="186" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#22d3ee" opacity=".85">repos · languages · pages</text>
+  </g>
+
+  <!-- node B -->
+  <g>
+    <rect x="276" y="118" width="212" height="76" rx="13" fill="#061021" stroke="#17324a"/>
+    <rect x="276" y="118" width="4" height="76" rx="2" fill="#a78bfa"/>
+    <text x="296" y="148" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">generate.py</text>
+    <text x="296" y="170" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#7d93ad">.github/scripts</text>
+    <text x="296" y="186" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#a78bfa" opacity=".85">stdlib · tanpa dependency</text>
+  </g>
+
+  <!-- node C1 -->
+  <g>
+    <rect x="528" y="20" width="210" height="76" rx="13" fill="#061021" stroke="#17324a"/>
+    <rect x="528" y="20" width="4" height="76" rx="2" fill="#2dd4bf"/>
+    <text x="548" y="50" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">assets/*.svg</text>
+    <text x="548" y="72" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#7d93ad">hero · terminal · dashboard</text>
+    <text x="548" y="88" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#7d93ad">signal · snake · cards</text>
+  </g>
+
+  <!-- node C2 -->
+  <g>
+    <rect x="528" y="166" width="210" height="76" rx="13" fill="#061021" stroke="#17324a"/>
+    <rect x="528" y="166" width="4" height="76" rx="2" fill="#fbbf24"/>
+    <text x="548" y="196" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">README.md</text>
+    <text x="548" y="218" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#7d93ad">AUTO:CARDS · AUTO:INDEX</text>
+    <text x="548" y="234" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#7d93ad">AUTO:LIVE · AUTO:STAMP</text>
+  </g>
+
+  <!-- node D -->
+  <g>
+    <rect x="776" y="118" width="212" height="76" rx="13" fill="#061021" stroke="#34d399" stroke-opacity=".55"/>
+    <rect x="776" y="118" width="4" height="76" rx="2" fill="#34d399"/>
+    <circle cx="800" cy="140" r="4" fill="#34d399">
+      <animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="814" y="145" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6f1ff">commit ke main</text>
+    <text x="796" y="170" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#7d93ad">github-actions[bot]</text>
+    <text x="796" y="186" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#34d399" opacity=".85">[skip ci] · harian 03:17 UTC</text>
+  </g>
+
+  <text x="1152" y="240" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#7d93ad" opacity=".8">output: profil GitHub selalu sinkron</text>
+</svg>
