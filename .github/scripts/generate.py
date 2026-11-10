@@ -539,12 +539,14 @@ def build_marquee() -> str:
         ("Cerebras AI", C["violet"]),
     ]
     w, h = 1280, 86
-    span = 1300
+    step = 170
+    span = len(items) * step
     seq = "".join(
-        f'<text x="{i * 150}" y="50" font-family="{MONO}" font-size="15" fill="{color}">{esc(name)}</text>'
-        f'<text x="{i * 150 + len(name) * 9 + 22}" y="50" font-family="{MONO}" font-size="15" fill="{C["dim"]}">/</text>'
+        f'<text x="{i * step}" y="50" font-family="{MONO}" font-size="15" fill="{color}">{esc(name)}</text>'
+        f'<text x="{i * step + len(name) * 8.6 + 24}" y="50" font-family="{MONO}" font-size="15" fill="{C["dim"]}">/</text>'
         for i, (name, color) in enumerate(items)
     )
+    seq = seq + seq
 
     def track(offset: int, dur: str) -> str:
         return (
@@ -563,9 +565,11 @@ def build_marquee() -> str:
 <rect width="{w}" height="{h}" rx="12" fill="{C['bg1']}" stroke="{C['line']}"/>
 <rect y="21" width="{w}" height="1" fill="{C['line']}" opacity=".6"/>
 <rect y="64" width="{w}" height="1" fill="{C['line']}" opacity=".6"/>
-{track(0, '26s')}{track(span, '26s')}
+{track(96, '46s')}{track(96 + span, '46s')}
 <rect width="{w}" height="{h}" fill="url(#mf)"/>
-<text x="18" y="50" font-family="{MONO}" font-size="10" fill="{C['cyan']}">STACK</text>
+<rect x="0" y="0" width="86" height="{h}" fill="{C['bg0']}"/>
+<rect x="86" y="14" width="1" height="58" fill="{C['line']}"/>
+<text x="20" y="50" font-family="{MONO}" font-size="10" letter-spacing="1.4" fill="{C['cyan']}">STACK</text>
 """
     return svg(w, h, body, defs)
 
