@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="253" height="34" viewBox="0 0 253 34" fill="none" role="img"><defs></defs>
+<rect width="253" height="34" rx="7" fill="#03060d"/>
+<rect x="162.39999999999998" width="91.0" height="34" rx="7" fill="#22c55e"/>
+<rect x="154.39999999999998" width="16" height="34" fill="#22c55e"/>
+<circle cx="14" cy="17" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="26" y="22" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.4" fill="#7d93ad">ASSET PIPELINE</text>
+<text x="207.89999999999998" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" font-weight="700" fill="#04121c">PASSING</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="34" viewBox="0 0 175 34" fill="none" role="img"><defs></defs>
+<rect width="175" height="34" rx="7" fill="#03060d"/>
+<rect x="129.2" width="46.0" height="34" rx="7" fill="#3b82f6"/>
+<rect x="121.19999999999999" width="16" height="34" fill="#3b82f6"/>
+
+<text x="14" y="22" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.4" fill="#7d93ad">PUBLIC REPOS</text>
+<text x="152.2" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" font-weight="700" fill="#04121c">43</text>
+</svg>

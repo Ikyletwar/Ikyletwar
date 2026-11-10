@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="34" viewBox="0 0 158 34" fill="none" role="img"><defs></defs>
+<rect width="158" height="34" rx="7" fill="#03060d"/>
+<rect x="112.0" width="46.0" height="34" rx="7" fill="#fbbf24"/>
+<rect x="104.0" width="16" height="34" fill="#fbbf24"/>
+
+<text x="14" y="22" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.4" fill="#7d93ad">LIVE DEMOS</text>
+<text x="135.0" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" font-weight="700" fill="#04121c">25</text>
+</svg>

@@ -546,7 +546,6 @@ def build_marquee() -> str:
         f'<text x="{i * step + len(name) * 8.6 + 24}" y="50" font-family="{MONO}" font-size="15" fill="{C["dim"]}">/</text>'
         for i, (name, color) in enumerate(items)
     )
-    seq = seq + seq
 
     def track(offset: int, dur: str) -> str:
         return (
@@ -727,6 +726,57 @@ def build_activity(data: dict) -> str:
     return svg(w, h, body, "")
 
 
+
+def build_signal(data: dict) -> str:
+    """Panel gabungan: metrik streak + grafik aktivitas 35 hari."""
+    w, h = 1180, 400
+    items = [
+        ("TOTAL CONTRIBUTIONS", fmt_num(data["total_contributions"]), C["cyan"]),
+        ("CURRENT STREAK", f"{data['streak']} days", C["amber"]),
+        ("LONGEST STREAK", f"{data['longest']} days", C["rose"]),
+        ("COMMITS / 12 MO", fmt_num(data["commits"]), C["green"]),
+    ]
+    cells = []
+    for i, (label, value, color) in enumerate(items):
+        x = 24 + i * 289
+        cells.append(
+            f'<g><rect x="{x}" y="24" width="265" height="104" rx="13" fill="#061021" stroke="{C["line"]}"/>'
+            f'<circle cx="{x + 24}" cy="54" r="5" fill="{color}"><animate attributeName="r" values="4;6;4" dur="2.4s" begin="{i * .25}s" repeatCount="indefinite"/></circle>'
+            f'<text x="{x + 40}" y="59" font-family="{MONO}" font-size="9.5" letter-spacing="1.6" fill="{C["dim"]}">{esc(label)}</text>'
+            f'<text x="{x + 22}" y="106" font-family="{FONT}" font-size="26" font-weight="800" fill="{C["text"]}">{esc(value)}</text></g>'
+        )
+
+    days = data["days"][-35:]
+    left, right, top, base = 44, w - 32, 196, 330
+    peak = max((d["contributionCount"] for d in days), default=1) or 1
+    step = (right - left) / max(len(days) - 1, 1)
+    bars = []
+    for i, day in enumerate(days):
+        count = day["contributionCount"]
+        bar_h = max(3, (count / peak) * (base - top))
+        intensity = count / peak
+        color = C["cyan"] if intensity < 0.5 else (C["teal"] if intensity < 0.85 else C["amber"])
+        bars.append(
+            f'<rect x="{left + i * step - 6:.1f}" y="{base - bar_h:.1f}" width="12" height="{bar_h:.1f}" rx="3" fill="{color}" opacity="0">'
+            f'<animate attributeName="opacity" values="0;{0.45 + 0.5 * intensity:.2f}" dur=".5s" begin="{i * .03:.2f}s" fill="freeze"/></rect>'
+        )
+
+    body = f"""
+<rect width="{w}" height="{h}" rx="16" fill="#050b15" stroke="{C['line']}"/>
+{''.join(cells)}
+<text x="44" y="166" font-family="{MONO}" font-size="10.5" letter-spacing="2.4" fill="{C['cyan']}">ACTIVITY — LAST {len(days)} DAYS</text>
+<text x="{w - 32}" y="166" text-anchor="end" font-family="{MONO}" font-size="10.5" fill="{C['dim']}">{sum(d['contributionCount'] for d in days)} contributions · peak {peak}/day</text>
+<g stroke="{C['line']}" stroke-dasharray="3 5" opacity=".7">
+  <line x1="{left}" y1="{top}" x2="{right}" y2="{top}"/>
+  <line x1="{left}" y1="{(top + base) / 2}" x2="{right}" y2="{(top + base) / 2}"/>
+  <line x1="{left}" y1="{base}" x2="{right}" y2="{base}"/>
+</g>
+{''.join(bars)}
+<text x="{left}" y="{h - 18}" font-family="{MONO}" font-size="10" fill="{C['dim']}">{esc(days[0]['date'])}</text>
+<text x="{right}" y="{h - 18}" text-anchor="end" font-family="{MONO}" font-size="10" fill="{C['dim']}">{esc(days[-1]['date'])}</text>
+"""
+    return svg(w, h, body, "")
+
 # ----------------------------------------------------------------------------
 # SVG: contribution snake
 # ----------------------------------------------------------------------------
@@ -873,6 +923,31 @@ def build_footer(data: dict) -> str:
     return svg(w, h, body, defs)
 
 
+
+# ----------------------------------------------------------------------------
+# SVG: badge lokal (tanpa dependensi pihak ketiga)
+# ----------------------------------------------------------------------------
+
+
+def build_badge(label: str, value: str, color: str, dot: bool = False) -> str:
+    label_w = len(label) * 8.6 + (42 if dot else 26)
+    value_w = len(value) * 9.0 + 28
+    w, h = int(label_w + value_w), 34
+    pulse = (
+        f'<circle cx="14" cy="17" r="4" fill="{C["green"]}">'
+        f'<animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>'
+        if dot else ""
+    )
+    body = f"""
+<rect width="{w}" height="{h}" rx="7" fill="#03060d"/>
+<rect x="{label_w}" width="{value_w}" height="{h}" rx="7" fill="{color}"/>
+<rect x="{label_w - 8}" width="16" height="{h}" fill="{color}"/>
+{pulse}
+<text x="{14 if not dot else 26}" y="22" font-family="{MONO}" font-size="11.5" letter-spacing="1.4" fill="{C['dim']}">{esc(label.upper())}</text>
+<text x="{label_w + value_w / 2}" y="22" text-anchor="middle" font-family="{MONO}" font-size="12" font-weight="700" fill="#04121c">{esc(value.upper())}</text>
+"""
+    return svg(w, h, body)
+
 # ----------------------------------------------------------------------------
 # README injection
 # ----------------------------------------------------------------------------
@@ -896,10 +971,34 @@ def inject(readme: str, name: str, block: str) -> str:
     return pattern.sub(lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}", readme)
 
 
+def featured(data: dict, limit: int = 8) -> list[dict]:
+    ranked = sorted(data["repos"], key=lambda r: (bool(r["live"]), r["pushed"] or ""), reverse=True)
+    picked, seen_lang = [], set()
+    for repo in ranked:
+        if repo["lang"] in seen_lang and len(picked) >= limit - 2:
+            continue
+        picked.append(repo)
+        seen_lang.add(repo["lang"])
+        if len(picked) == limit:
+            break
+    return picked
+
+
+def index_block(data: dict) -> str:
+    lines = ["| Repo | Bahasa | ★ | Live | Update |", "|---|---|---:|---|---|"]
+    for repo in data["repos"]:
+        live = f"[↗]({repo['live']})" if repo["live"] else "—"
+        lines.append(
+            f"| [`{repo['name']}`](https://github.com/{LOGIN}/{repo['name']}) | {repo['lang']} | {repo['stars']} | {live} | {ago(repo['pushed'])} |"
+        )
+    return "\n".join(lines)
+
+
 def cards_block(data: dict) -> str:
     rows = []
-    for i in range(0, len(data["repos"]), 2):
-        pair = data["repos"][i : i + 2]
+    repos = featured(data)
+    for i in range(0, len(repos), 2):
+        pair = repos[i : i + 2]
         cells = []
         for repo in pair:
             link = f"https://github.com/{LOGIN}/{repo['name']}"
@@ -958,10 +1057,13 @@ def main() -> int:
     write(os.path.join(ASSETS, "terminal.svg"), build_terminal(data))
     write(os.path.join(ASSETS, "marquee.svg"), build_marquee())
     write(os.path.join(ASSETS, "dashboard.svg"), build_dashboard(data))
-    write(os.path.join(ASSETS, "streak.svg"), build_streak(data))
-    write(os.path.join(ASSETS, "activity.svg"), build_activity(data))
+    write(os.path.join(ASSETS, "signal.svg"), build_signal(data))
     write(os.path.join(ASSETS, "snake.svg"), build_snake(data))
     write(os.path.join(ASSETS, "footer.svg"), build_footer(data))
+    write(os.path.join(ASSETS, "badges", "repos.svg"), build_badge("public repos", str(len(data["repos"])), C["blue"]))
+    write(os.path.join(ASSETS, "badges", "live.svg"), build_badge("live demos", str(data["live"]), C["amber"]))
+    write(os.path.join(ASSETS, "badges", "contrib.svg"), build_badge("contributions", str(data["total_contributions"]), C["green"]))
+    write(os.path.join(ASSETS, "badges", "pipeline.svg"), build_badge("asset pipeline", "passing", "#22c55e", dot=True))
 
     for old in os.listdir(CARDS) if os.path.isdir(CARDS) else []:
         if old.endswith(".svg"):
@@ -974,8 +1076,8 @@ def main() -> int:
         readme = handle.read()
     for name, block in (
         ("CARDS", cards_block(data)),
+        ("INDEX", index_block(data)),
         ("LIVE", live_block(data)),
-        ("STATS", stats_block(data)),
         ("STAMP", f"`last sync {stamp_full()}`"),
     ):
         readme = inject(readme, name, block)
