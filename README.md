@@ -71,24 +71,24 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 5d ago |
-| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 5d ago |
-| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 5d ago |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 6d ago |
-| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 8d ago |
-| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 10d ago |
-| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 10d ago |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 10d ago |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 10d ago |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 11d ago |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 11d ago |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 11d ago |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 11d ago |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 11d ago |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 11d ago |
-| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 11d ago |
-| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 15d ago |
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 16d ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 6d ago |
+| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 6d ago |
+| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 6d ago |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 7d ago |
+| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 9d ago |
+| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 11d ago |
+| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 11d ago |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 11d ago |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 11d ago |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 12d ago |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 12d ago |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 12d ago |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 12d ago |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 12d ago |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 12d ago |
+| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 12d ago |
+| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 16d ago |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 17d ago |
 | [`tiktok-scraper`](https://github.com/Ikyletwar/tiktok-scraper) | Python | 0 | — | 1mo ago |
 | [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C | 0 | — | 1mo ago |
 | [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML | 0 | — | 1mo ago |
@@ -102,11 +102,11 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 | [`zerostream`](https://github.com/Ikyletwar/zerostream) | JavaScript | 0 | — | 5mo ago |
 | [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) | HTML | 0 | [↗](https://ikyletwar.github.io/Personal-Website/) | 5mo ago |
 | [`Prompt`](https://github.com/Ikyletwar/Prompt) | — | 0 | — | 6mo ago |
-| [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | HTML | 0 | [↗](https://ikyletwar.github.io/KafeElis/) | 6mo ago |
+| [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | HTML | 0 | [↗](https://ikyletwar.github.io/KafeElis/) | 7mo ago |
 | [`SIRA`](https://github.com/Ikyletwar/SIRA) | HTML | 0 | [↗](https://ikyletwar.github.io/SIRA/) | 7mo ago |
-| [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/StoryForge-AI/) | 7mo ago |
-| [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Resep-AI/) | 7mo ago |
-| [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Nihonjin-AI/) | 7mo ago |
+| [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/StoryForge-AI/) | 8mo ago |
+| [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Resep-AI/) | 8mo ago |
+| [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Nihonjin-AI/) | 8mo ago |
 | [`SeLA`](https://github.com/Ikyletwar/SeLA) | HTML | 0 | [↗](https://ikyletwar.github.io/SeLA/) | 8mo ago |
 | [`TaskFlow-ToDo`](https://github.com/Ikyletwar/TaskFlow-ToDo) | HTML | 0 | [↗](https://ikyletwar.github.io/TaskFlow-ToDo/) | 8mo ago |
 | [`Luxury-ECommerce-UI`](https://github.com/Ikyletwar/Luxury-ECommerce-UI) | HTML | 0 | [↗](https://ikyletwar.github.io/Luxury-ECommerce-UI/) | 8mo ago |
@@ -223,7 +223,7 @@ README ini adalah **artefak build**, bukan dokumen manual.
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-15 10:55 UTC`
+`last sync 2026-11-16 11:20 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
