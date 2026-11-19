@@ -54,9 +54,9 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 
 <!-- AUTO:CARDS -->
 <table>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nilai-akhir-smk"><img src="assets/cards/nilai-akhir-smk.svg" alt="nilai-akhir-smk — Kalkulator nilai akhir SMK: hitung nilai berbobot, predikat, KKM, export CSV. Vanilla HTML/…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nilai-akhir-smk">Repo ↗</a> · <a href="https://ikyletwar.github.io/nilai-akhir-smk/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-prompts"><img src="assets/cards/nihongo-prompts.svg" alt="nihongo-prompts — Koleksi prompt AI offline — XI TJKT, SMK Negeri 1 Maluku Tengah. Statis, tanpa backend, tan…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-prompts">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-prompts/">Live ↗</a></sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/personal-website-v2"><img src="assets/cards/personal-website-v2.svg" alt="personal-website-v2 — Portfolio Hizkia Letwar — kinetic typography, monochrome premium, HTML/CSS/JS murni." width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/personal-website-v2">Repo ↗</a> · <a href="https://ikyletwar.github.io/personal-website-v2/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/dih-pinterest-replica"><img src="assets/cards/dih-pinterest-replica.svg" alt="dih-pinterest-replica — Replika Pinterest statis + laporan reverse engineering searchpinterest.vercel.app: ma…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/dih-pinterest-replica">Repo ↗</a> · <a href="https://ikyletwar.github.io/dih-pinterest-replica/">Live ↗</a></sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-quest"><img src="assets/cards/nihongo-quest.svg" alt="nihongo-quest — Aplikasi web progresif belajar bahasa Jepang untuk pemula Indonesia — kana, kanji, kosakata…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-quest">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-quest/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/cool-luxe-villa"><img src="assets/cards/cool-luxe-villa.svg" alt="cool-luxe-villa — Rumah Impian — Cool Luxe Villa: an interactive low-poly two-storey minimalist villa rendere…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/cool-luxe-villa">Repo ↗</a> · <a href="https://ikyletwar.github.io/cool-luxe-villa/">Live ↗</a></sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/open-motion"><img src="assets/cards/open-motion.svg" alt="open-motion — Modular browser-native motion graphics and video timeline editor" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/open-motion">Repo ↗</a> · <a href="https://ikyletwar.github.io/open-motion/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nilai-akhir-smk"><img src="assets/cards/nilai-akhir-smk.svg" alt="nilai-akhir-smk — Kalkulator nilai akhir SMK: hitung nilai berbobot, predikat, KKM, export CSV. Vanilla HTML/…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nilai-akhir-smk">Repo ↗</a> · <a href="https://ikyletwar.github.io/nilai-akhir-smk/">Live ↗</a></sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-prompts"><img src="assets/cards/nihongo-prompts.svg" alt="nihongo-prompts — Koleksi prompt AI offline — XI TJKT, SMK Negeri 1 Maluku Tengah. Statis, tanpa backend, tan…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-prompts">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-prompts/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/personal-website-v2"><img src="assets/cards/personal-website-v2.svg" alt="personal-website-v2 — Portfolio Hizkia Letwar — kinetic typography, monochrome premium, HTML/CSS/JS murni." width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/personal-website-v2">Repo ↗</a> · <a href="https://ikyletwar.github.io/personal-website-v2/">Live ↗</a></sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/dih-pinterest-replica"><img src="assets/cards/dih-pinterest-replica.svg" alt="dih-pinterest-replica — Replika Pinterest statis + laporan reverse engineering searchpinterest.vercel.app: ma…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/dih-pinterest-replica">Repo ↗</a> · <a href="https://ikyletwar.github.io/dih-pinterest-replica/">Live ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/nihongo-quest"><img src="assets/cards/nihongo-quest.svg" alt="nihongo-quest — Aplikasi web progresif belajar bahasa Jepang untuk pemula Indonesia — kana, kanji, kosakata…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/nihongo-quest">Repo ↗</a> · <a href="https://ikyletwar.github.io/nihongo-quest/">Live ↗</a></sub></td></tr>
 <tr><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/exam-smkn1-malteng"><img src="assets/cards/exam-smkn1-malteng.svg" alt="exam-smkn1-malteng — Aplikasi ujian berbasis web SMKN 1 Malteng dengan fitur anti-cheat: alarm background, vo…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/exam-smkn1-malteng">Repo ↗</a></sub></td><td width="50%" align="center" valign="top"><a href="https://github.com/Ikyletwar/MinimapViewer"><img src="assets/cards/MinimapViewer.svg" alt="MinimapViewer — Android overlay HUD yang menampilkan posisi entity game real-time via UDP snapshot dari sende…" width="100%" /></a><br><sub><a href="https://github.com/Ikyletwar/MinimapViewer">Repo ↗</a></sub></td></tr>
 </table>
 <!-- /AUTO:CARDS -->
@@ -71,31 +71,32 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 8d ago |
-| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 8d ago |
-| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 9d ago |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 9d ago |
-| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 11d ago |
-| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 13d ago |
-| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 13d ago |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 13d ago |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 13d ago |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 14d ago |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 14d ago |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 14d ago |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 14d ago |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 14d ago |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 14d ago |
-| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 15d ago |
-| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 18d ago |
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 19d ago |
+| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [↗](https://ikyletwar.github.io/open-motion/) | 13h ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 9d ago |
+| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 9d ago |
+| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 10d ago |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 10d ago |
+| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 12d ago |
+| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 14d ago |
+| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 14d ago |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 14d ago |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 14d ago |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 15d ago |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 15d ago |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 15d ago |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 15d ago |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 15d ago |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 15d ago |
+| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 16d ago |
+| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 19d ago |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 20d ago |
 | [`tiktok-scraper`](https://github.com/Ikyletwar/tiktok-scraper) | Python | 0 | — | 1mo ago |
 | [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C | 0 | — | 1mo ago |
 | [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML | 0 | — | 1mo ago |
 | [`computerclass`](https://github.com/Ikyletwar/computerclass) | CSS | 0 | [↗](https://ikyletwar.github.io/computerclass/) | 1mo ago |
 | [`school-inventory`](https://github.com/Ikyletwar/school-inventory) | JavaScript | 0 | — | 1mo ago |
-| [`absensi-late-smpn38`](https://github.com/Ikyletwar/absensi-late-smpn38) | Kotlin | 0 | — | 1mo ago |
-| [`rupiahs-hunters`](https://github.com/Ikyletwar/rupiahs-hunters) | HTML | 0 | [↗](https://ikyletwar.github.io/rupiahs-hunters/) | 1mo ago |
+| [`absensi-late-smpn38`](https://github.com/Ikyletwar/absensi-late-smpn38) | Kotlin | 0 | — | 2mo ago |
+| [`rupiahs-hunters`](https://github.com/Ikyletwar/rupiahs-hunters) | HTML | 0 | [↗](https://ikyletwar.github.io/rupiahs-hunters/) | 2mo ago |
 | [`absensi-late-smk`](https://github.com/Ikyletwar/absensi-late-smk) | Kotlin | 0 | — | 2mo ago |
 | [`Arduino-Kejur1`](https://github.com/Ikyletwar/Arduino-Kejur1) | — | 0 | — | 2mo ago |
 | [`zerostream2`](https://github.com/Ikyletwar/zerostream2) | JavaScript | 0 | — | 5mo ago |
@@ -134,6 +135,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 | [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | [live ↗](https://ikyletwar.github.io/nihongo-quest/) | JavaScript |
 | [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | [live ↗](https://ikyletwar.github.io/Nihonjin-AI/) | HTML |
 | [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | [live ↗](https://ikyletwar.github.io/nilai-akhir-smk/) | CSS |
+| [`open-motion`](https://github.com/Ikyletwar/open-motion) | [live ↗](https://ikyletwar.github.io/open-motion/) | JavaScript |
 | [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) | [live ↗](https://ikyletwar.github.io/Personal-Website/) | HTML |
 | [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | [live ↗](https://ikyletwar.github.io/personal-website-v2/) | HTML |
 | [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | [live ↗](https://ikyletwar.github.io/putra-lordian/) | JavaScript |
@@ -223,7 +225,7 @@ README ini adalah **artefak build**, bukan dokumen manual.
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-18 11:44 UTC`
+`last sync 2026-11-19 11:40 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
