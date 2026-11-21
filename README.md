@@ -71,25 +71,25 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [↗](https://ikyletwar.github.io/open-motion/) | 1d ago |
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 10d ago |
-| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 10d ago |
+| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [↗](https://ikyletwar.github.io/open-motion/) | 2d ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 11d ago |
+| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 11d ago |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 11d ago |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 11d ago |
-| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 13d ago |
-| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 15d ago |
-| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 15d ago |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 15d ago |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 15d ago |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 16d ago |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 16d ago |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 16d ago |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 16d ago |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 16d ago |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 16d ago |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 12d ago |
+| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 14d ago |
+| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 16d ago |
+| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 16d ago |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 16d ago |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 16d ago |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 17d ago |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 17d ago |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 17d ago |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 17d ago |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 17d ago |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 17d ago |
 | [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 17d ago |
-| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 20d ago |
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 21d ago |
+| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 21d ago |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 22d ago |
 | [`tiktok-scraper`](https://github.com/Ikyletwar/tiktok-scraper) | Python | 0 | — | 1mo ago |
 | [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C | 0 | — | 1mo ago |
 | [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML | 0 | — | 1mo ago |
@@ -104,7 +104,7 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 | [`Personal-Website`](https://github.com/Ikyletwar/Personal-Website) | HTML | 0 | [↗](https://ikyletwar.github.io/Personal-Website/) | 6mo ago |
 | [`Prompt`](https://github.com/Ikyletwar/Prompt) | — | 0 | — | 6mo ago |
 | [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | HTML | 0 | [↗](https://ikyletwar.github.io/KafeElis/) | 7mo ago |
-| [`SIRA`](https://github.com/Ikyletwar/SIRA) | HTML | 0 | [↗](https://ikyletwar.github.io/SIRA/) | 7mo ago |
+| [`SIRA`](https://github.com/Ikyletwar/SIRA) | HTML | 0 | [↗](https://ikyletwar.github.io/SIRA/) | 8mo ago |
 | [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/StoryForge-AI/) | 8mo ago |
 | [`Resep-AI`](https://github.com/Ikyletwar/Resep-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Resep-AI/) | 8mo ago |
 | [`Nihonjin-AI`](https://github.com/Ikyletwar/Nihonjin-AI) | HTML | 0 | [↗](https://ikyletwar.github.io/Nihonjin-AI/) | 8mo ago |
@@ -225,7 +225,7 @@ README ini adalah **artefak build**, bukan dokumen manual.
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-20 11:40 UTC`
+`last sync 2026-11-21 11:03 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
