@@ -71,25 +71,25 @@ Cara kerja saya sederhana: **statis dulu kalau bisa, offline kalau memungkinkan,
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [↗](https://ikyletwar.github.io/open-motion/) | 2d ago |
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 11d ago |
-| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 11d ago |
-| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 11d ago |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 12d ago |
-| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 14d ago |
-| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 16d ago |
-| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 16d ago |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 16d ago |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 16d ago |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 17d ago |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 17d ago |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 17d ago |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 17d ago |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 17d ago |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 17d ago |
-| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 17d ago |
-| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 21d ago |
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 22d ago |
+| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [↗](https://ikyletwar.github.io/open-motion/) | 3d ago |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | JavaScript | 0 | [↗](https://ikyletwar.github.io/putra-lordian/) | 12d ago |
+| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 12d ago |
+| [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 12d ago |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 13d ago |
+| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 15d ago |
+| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 17d ago |
+| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 17d ago |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [↗](https://ikyletwar.github.io/nilai-akhir-smk/) | 17d ago |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 17d ago |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [↗](https://ikyletwar.github.io/nihongo-prompts/) | 18d ago |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [↗](https://ikyletwar.github.io/simu-web/) | 18d ago |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [↗](https://ikyletwar.github.io/personal-website-v2/) | 18d ago |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [↗](https://ikyletwar.github.io/dih-pinterest-replica/) | 18d ago |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [↗](https://ikyletwar.github.io/nihongo-quest/) | 18d ago |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [↗](https://ikyletwar.github.io/cool-luxe-villa/) | 18d ago |
+| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [↗](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 18d ago |
+| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 22d ago |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [↗](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 23d ago |
 | [`tiktok-scraper`](https://github.com/Ikyletwar/tiktok-scraper) | Python | 0 | — | 1mo ago |
 | [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C | 0 | — | 1mo ago |
 | [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML | 0 | — | 1mo ago |
@@ -225,7 +225,7 @@ README ini adalah **artefak build**, bukan dokumen manual.
 </details>
 
 <!-- AUTO:STAMP -->
-`last sync 2026-11-21 11:03 UTC`
+`last sync 2026-11-22 11:26 UTC`
 <!-- /AUTO:STAMP -->
 
 <img src="assets/footer.svg" width="100%" alt="footer" />
