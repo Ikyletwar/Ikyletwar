@@ -1,14 +1,14 @@
-<p align="center"><sub>PROFIL · PEMBARUAN BERKALA</sub></p>
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Hizkia Letwar — Nihongo-Web, XI TJKT 1 SMK Negeri 1 Maluku Tengah" />
+</div>
 
-<h1 align="center">Hizkia Letwar</h1>
+<p align="center">
+  <a href="https://github.com/Ikyletwar">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://ikyletwar.github.io/personal-website-v2/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://ikyletwar.github.io/nihongo-quest/">Nihongo Quest</a>
+</p>
 
-<p align="center"><strong>Nihongo-Web</strong><br>XI TJKT 1 · SMK Negeri 1 Maluku Tengah<br>Maluku Tengah, Indonesia</p>
-
-<p align="center"><em>Web &amp; PWA · Android Kotlin/Compose · alat sekolah · reverse engineering</em></p>
-
-<p align="center"><a href="https://github.com/Ikyletwar">GitHub</a> · <a href="https://ikyletwar.github.io/personal-website-v2/">Portfolio</a> · <a href="https://ikyletwar.github.io/nihongo-quest/">Nihongo Quest</a></p>
-
----
+<img src="assets/rule.svg" width="100%" alt="" />
 
 > Saya membangun alat kecil yang benar-benar dipakai. Kalau satu file HTML cukup, satu file HTML yang saya kirim.
 
@@ -22,6 +22,8 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 
 **Sekarang** — school ops tooling, PWA belajar Jepang, catatan reverse engineering, dan UI vanilla yang rapi.  
 **Selanjutnya** — pendalaman Android/Compose, empty-state data, dan performance pass.
+
+<img src="assets/rule.svg" width="100%" alt="" />
 
 ## 02 — Karya Pilihan
 
@@ -52,6 +54,8 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 | Android | Kotlin + Compose + Room, Java + Android SDK, C/NDK untuk riset |
 | AI di browser | Cerebras API, SPA bring-your-own-key, prompt engineering |
 | RE & otomasi | radare2, apktool, mitmproxy, Python CLI, GitHub Actions |
+
+<img src="assets/rule.svg" width="100%" alt="" />
 
 ## 05 — Live
 
