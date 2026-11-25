@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="Penutup">
+  <defs>
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .mono { font-family: ui-monospace, 'SF Mono', Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="120" fill="#141311"/>
+  <line x1="80" y1="28" x2="1120" y2="28" stroke="#2a2723"/>
+  <text x="80" y="68" class="serif" font-size="28" fill="#d9d2c5">Dibuat dengan niat, dirapikan dengan teliti.</text>
+  <text x="80" y="92" class="mono" font-size="11" letter-spacing="2" fill="#7f786f">HIZKIA LETWAR  ·  NIHONGO-WEB  ·  MALUKU TENGAH</text>
+  <g transform="translate(1088,60)">
+    <circle r="18" stroke="#3a3630" stroke-width="1" fill="none"/>
+    <circle r="18" stroke="#b9a37a" stroke-width="1" fill="none" stroke-dasharray="18 95" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.5" fill="#b9a37a">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

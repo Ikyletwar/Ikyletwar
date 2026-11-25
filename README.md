@@ -8,6 +8,8 @@
   <a href="https://ikyletwar.github.io/nihongo-quest/">Nihongo Quest</a>
 </p>
 
+<img src="assets/ticker.svg" width="100%" alt="Web & PWA / Android Kotlin / Alat Sekolah / Reverse Engineering / Offline-first / Editorial UI" />
+
 <img src="assets/rule.svg" width="100%" alt="" />
 
 > Saya membangun alat kecil yang benar-benar dipakai. Kalau satu file HTML cukup, satu file HTML yang saya kirim.
@@ -22,6 +24,10 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 
 **Sekarang** — school ops tooling, PWA belajar Jepang, catatan reverse engineering, dan UI vanilla yang rapi.  
 **Selanjutnya** — pendalaman Android/Compose, empty-state data, dan performance pass.
+
+<br/>
+
+<img src="assets/stats.svg" width="100%" alt="Statistik: 45+ repositori publik, 27 endpoint live, fokus Web PWA Android, prinsip statis dulu offline kalau bisa" />
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
@@ -47,13 +53,13 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 
 ## 04 — Stack
 
-| Layer | Yang dipakai |
-|---|---|
-| Front-end | HTML, CSS, JavaScript murni, Tailwind, mobile-first, GitHub Pages, Vercel |
-| App model | Static-first, PWA/offline-first, localStorage, Express/SQLite, Room |
-| Android | Kotlin + Compose + Room, Java + Android SDK, C/NDK untuk riset |
-| AI di browser | Cerebras API, SPA bring-your-own-key, prompt engineering |
-| RE & otomasi | radare2, apktool, mitmproxy, Python CLI, GitHub Actions |
+| | Layer | Yang dipakai |
+|:---:|---|---|
+| <img src="assets/icons/web.svg" width="18" height="18" alt="" /> | **Front-end** | HTML, CSS, JavaScript murni, Tailwind, mobile-first, GitHub Pages, Vercel |
+| <img src="assets/icons/android.svg" width="18" height="18" alt="" /> | **Android** | Kotlin + Compose + Room, Java + Android SDK, C/NDK untuk riset |
+| <img src="assets/icons/shield.svg" width="18" height="18" alt="" /> | **RE & keamanan** | radare2, apktool, mitmproxy, analisis defensif, riset prompt |
+| <img src="assets/icons/tool.svg" width="18" height="18" alt="" /> | **Otomasi & AI** | Python CLI, GitHub Actions, Cerebras API, SPA bring-your-own-key |
+| <img src="assets/icons/arrow.svg" width="18" height="18" alt="" /> | **Model aplikasi** | Static-first, PWA/offline-first, localStorage, Express/SQLite, Room |
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
@@ -104,23 +110,23 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`grand-piano-88`](https://github.com/Ikyletwar/grand-piano-88) | JavaScript | 0 | [live](https://ikyletwar.github.io/grand-piano-88/) | 16m lalu |
+| [`grand-piano-88`](https://github.com/Ikyletwar/grand-piano-88) | JavaScript | 0 | [live](https://ikyletwar.github.io/grand-piano-88/) | 44m lalu |
 | [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | HTML | 0 | [live](https://ikyletwar.github.io/putra-lordian/) | 1j lalu |
 | [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [live](https://ikyletwar.github.io/open-motion/) | 6h lalu |
 | [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 15h lalu |
 | [`exam-smkn1-malteng`](https://github.com/Ikyletwar/exam-smkn1-malteng) | Java | 0 | — | 16h lalu |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 16h lalu |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 17h lalu |
 | [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 18h lalu |
 | [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 20h lalu |
 | [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 20h lalu |
 | [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [live](https://ikyletwar.github.io/nilai-akhir-smk/) | 20h lalu |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 20h lalu |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 21h lalu |
 | [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [live](https://ikyletwar.github.io/nihongo-prompts/) | 21h lalu |
 | [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [live](https://ikyletwar.github.io/simu-web/) | 21h lalu |
 | [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [live](https://ikyletwar.github.io/personal-website-v2/) | 21h lalu |
 | [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [live](https://ikyletwar.github.io/dih-pinterest-replica/) | 21h lalu |
-| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [live](https://ikyletwar.github.io/nihongo-quest/) | 21h lalu |
-| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [live](https://ikyletwar.github.io/cool-luxe-villa/) | 21h lalu |
+| [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [live](https://ikyletwar.github.io/nihongo-quest/) | 22h lalu |
+| [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [live](https://ikyletwar.github.io/cool-luxe-villa/) | 22h lalu |
 | [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [live](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 22h lalu |
 | [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 25h lalu |
 | [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [live](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 26h lalu |
@@ -153,12 +159,20 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 
 </details>
 
+<img src="assets/rule.svg" width="100%" alt="" />
+
 ## 07 — Kontak
 
-[GitHub](https://github.com/Ikyletwar) · [Portfolio](https://ikyletwar.github.io/personal-website-v2/) · [Nihongo Quest](https://ikyletwar.github.io/nihongo-quest/)
+<p align="center">
+  <a href="https://github.com/Ikyletwar"><img src="assets/icons/web.svg" width="16" height="16" alt="" />&nbsp; GitHub</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ikyletwar.github.io/personal-website-v2/"><img src="assets/icons/arrow.svg" width="16" height="16" alt="" />&nbsp; Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ikyletwar.github.io/nihongo-quest/"><img src="assets/icons/tool.svg" width="16" height="16" alt="" />&nbsp; Nihongo Quest</a>
+</p>
 
----
+<br/>
 
-<sub>Diperbarui otomatis dari data publik GitHub · <!-- AUTO:STAMP -->
-`last sync 2026-11-25 12:11 UTC`
-<!-- /AUTO:STAMP --></sub>
+<img src="assets/footer.svg" width="100%" alt="Dibuat dengan niat, dirapikan dengan teliti. Hizkia Letwar — Nihongo-Web — Maluku Tengah" />
+
+<p align="center"><sub>Diperbarui otomatis dari data publik GitHub · <!-- AUTO:STAMP -->
+`last sync 2026-11-25 12:39 UTC`
+<!-- /AUTO:STAMP --></sub></p>

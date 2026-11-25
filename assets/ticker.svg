@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" fill="none" role="img" aria-label="Fokus kerja">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, 'SF Mono', Consolas, monospace; }
+    </style>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="56"/></clipPath>
+  </defs>
+  <rect width="1200" height="56" fill="#141311"/>
+  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="#2a2723"/>
+  <line x1="0" y1="55.5" x2="1200" y2="55.5" stroke="#2a2723"/>
+  <g clip-path="url(#clip)" class="mono" font-size="12" letter-spacing="2.5" fill="#8f877b">
+    <g>
+      <text y="33">
+        <tspan x="0">WEB &amp; PWA</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">ANDROID KOTLIN</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan>ALAT SEKOLAH</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">REVERSE ENGINEERING</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan>OFFLINE-FIRST</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">EDITORIAL UI</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan>WEB &amp; PWA</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">ANDROID KOTLIN</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan>ALAT SEKOLAH</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">REVERSE ENGINEERING</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan>OFFLINE-FIRST</tspan><tspan fill="#3a3630">  /  </tspan>
+        <tspan fill="#b9a37a">EDITORIAL UI</tspan><tspan fill="#3a3630">  /  </tspan>
+      </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-920 0" dur="28s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
