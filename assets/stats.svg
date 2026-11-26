@@ -10,13 +10,13 @@
   <rect x="24" y="12" width="1152" height="108" rx="0" stroke="#2a2723" stroke-width="1"/>
   <g transform="translate(80,42)">
     <text class="mono" font-size="11" letter-spacing="2.5" fill="#8f877b">REPOSITORI PUBLIK</text>
-    <text class="serif" font-size="38" fill="#f0ebe2" y="44">45<tspan font-size="18" fill="#b9a37a">+</tspan></text>
+    <text class="serif" font-size="38" fill="#f0ebe2" y="44">43<tspan font-size="18" fill="#b9a37a">+</tspan></text>
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
   </g>
   <line x1="320" y1="34" x2="320" y2="98" stroke="#2a2723"/>
   <g transform="translate(360,42)" opacity="0">
     <text class="mono" font-size="11" letter-spacing="2.5" fill="#8f877b">ENDPOINT LIVE</text>
-    <text class="serif" font-size="38" fill="#f0ebe2" y="44">27</text>
+    <text class="serif" font-size="38" fill="#f0ebe2" y="44">28</text>
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.15s" fill="freeze"/>
   </g>
   <line x1="560" y1="34" x2="560" y2="98" stroke="#2a2723"/>
