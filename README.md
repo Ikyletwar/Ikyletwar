@@ -71,12 +71,14 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 <!-- AUTO:LIVE -->
 | Project | Endpoint | Stack |
 |---|---|---|
+| [`apex-circuit-01`](https://github.com/Ikyletwar/apex-circuit-01) | [live](https://Ikyletwar.github.io/apex-circuit-01/) | JavaScript |
 | [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | [live](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | HTML |
 | [`computerclass`](https://github.com/Ikyletwar/computerclass) | [live](https://ikyletwar.github.io/computerclass/) | CSS |
 | [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | [live](https://ikyletwar.github.io/cool-luxe-villa/) | HTML |
 | [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | [live](https://ikyletwar.github.io/dih-pinterest-replica/) | JavaScript |
 | [`do-you-mind-lyrics`](https://github.com/Ikyletwar/do-you-mind-lyrics) | [live](https://ikyletwar.github.io/do-you-mind-lyrics/) | HTML |
 | [`grand-piano-88`](https://github.com/Ikyletwar/grand-piano-88) | [live](https://ikyletwar.github.io/grand-piano-88/) | JavaScript |
+| [`grup-mbr-tjkt`](https://github.com/Ikyletwar/grup-mbr-tjkt) | [live](https://ikyletwar.github.io/grup-mbr-tjkt/) | HTML |
 | [`KafeElis`](https://github.com/Ikyletwar/KafeElis) | [live](https://ikyletwar.github.io/KafeElis/) | HTML |
 | [`Luxury-ECommerce-UI`](https://github.com/Ikyletwar/Luxury-ECommerce-UI) | [live](https://ikyletwar.github.io/Luxury-ECommerce-UI/) | HTML |
 | [`modern-login-ui`](https://github.com/Ikyletwar/modern-login-ui) | [live](https://ikyletwar.github.io/modern-login-ui/) | HTML |
@@ -94,6 +96,7 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 | [`SeLA`](https://github.com/Ikyletwar/SeLA) | [live](https://ikyletwar.github.io/SeLA/) | HTML |
 | [`simu-web`](https://github.com/Ikyletwar/simu-web) | [live](https://ikyletwar.github.io/simu-web/) | HTML |
 | [`SIRA`](https://github.com/Ikyletwar/SIRA) | [live](https://ikyletwar.github.io/SIRA/) | HTML |
+| [`speedlab`](https://github.com/Ikyletwar/speedlab) | [live](https://Ikyletwar.github.io/speedlab/) | JavaScript |
 | [`StoryForge-AI`](https://github.com/Ikyletwar/StoryForge-AI) | [live](https://ikyletwar.github.io/StoryForge-AI/) | HTML |
 | [`TaskFlow-ToDo`](https://github.com/Ikyletwar/TaskFlow-ToDo) | [live](https://ikyletwar.github.io/TaskFlow-ToDo/) | HTML |
 | [`Template-UI-Design`](https://github.com/Ikyletwar/Template-UI-Design) | [live](https://ikyletwar.github.io/Template-UI-Design/) | HTML |
@@ -111,26 +114,29 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 <!-- AUTO:INDEX -->
 | Repo | Bahasa | ★ | Live | Update |
 |---|---|---:|---|---|
-| [`do-you-mind-lyrics`](https://github.com/Ikyletwar/do-you-mind-lyrics) | HTML | 0 | [live](https://ikyletwar.github.io/do-you-mind-lyrics/) | 22j lalu |
-| [`grand-piano-88`](https://github.com/Ikyletwar/grand-piano-88) | JavaScript | 0 | [live](https://ikyletwar.github.io/grand-piano-88/) | 1h lalu |
-| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | HTML | 0 | [live](https://ikyletwar.github.io/putra-lordian/) | 1h lalu |
-| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [live](https://ikyletwar.github.io/open-motion/) | 7h lalu |
-| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 16h lalu |
-| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 18h lalu |
-| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 19h lalu |
-| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 21h lalu |
-| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 21h lalu |
-| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [live](https://ikyletwar.github.io/nilai-akhir-smk/) | 21h lalu |
-| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 22h lalu |
-| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [live](https://ikyletwar.github.io/nihongo-prompts/) | 22h lalu |
-| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [live](https://ikyletwar.github.io/simu-web/) | 22h lalu |
-| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [live](https://ikyletwar.github.io/personal-website-v2/) | 22h lalu |
-| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [live](https://ikyletwar.github.io/dih-pinterest-replica/) | 22h lalu |
+| [`grand-piano-88`](https://github.com/Ikyletwar/grand-piano-88) | JavaScript | 0 | [live](https://ikyletwar.github.io/grand-piano-88/) | 37m lalu |
+| [`speedlab`](https://github.com/Ikyletwar/speedlab) | JavaScript | 0 | [live](https://Ikyletwar.github.io/speedlab/) | 1j lalu |
+| [`apex-circuit-01`](https://github.com/Ikyletwar/apex-circuit-01) | JavaScript | 0 | [live](https://Ikyletwar.github.io/apex-circuit-01/) | 16j lalu |
+| [`grup-mbr-tjkt`](https://github.com/Ikyletwar/grup-mbr-tjkt) | HTML | 0 | [live](https://ikyletwar.github.io/grup-mbr-tjkt/) | 21j lalu |
+| [`do-you-mind-lyrics`](https://github.com/Ikyletwar/do-you-mind-lyrics) | HTML | 0 | [live](https://ikyletwar.github.io/do-you-mind-lyrics/) | 1h lalu |
+| [`putra-lordian`](https://github.com/Ikyletwar/putra-lordian) | HTML | 0 | [live](https://ikyletwar.github.io/putra-lordian/) | 2h lalu |
+| [`open-motion`](https://github.com/Ikyletwar/open-motion) | JavaScript | 0 | [live](https://ikyletwar.github.io/open-motion/) | 8h lalu |
+| [`netmon`](https://github.com/Ikyletwar/netmon) | HTML | 0 | — | 17h lalu |
+| [`natal-grabber`](https://github.com/Ikyletwar/natal-grabber) | HTML | 0 | — | 19h lalu |
+| [`animehub`](https://github.com/Ikyletwar/animehub) | JavaScript | 0 | — | 20h lalu |
+| [`MinimapViewer`](https://github.com/Ikyletwar/MinimapViewer) | Kotlin | 0 | — | 22h lalu |
+| [`szax-launcher-re`](https://github.com/Ikyletwar/szax-launcher-re) | Python | 0 | — | 22h lalu |
+| [`nilai-akhir-smk`](https://github.com/Ikyletwar/nilai-akhir-smk) | CSS | 0 | [live](https://ikyletwar.github.io/nilai-akhir-smk/) | 22h lalu |
+| [`chess-lan`](https://github.com/Ikyletwar/chess-lan) | HTML | 0 | — | 23h lalu |
+| [`nihongo-prompts`](https://github.com/Ikyletwar/nihongo-prompts) | HTML | 0 | [live](https://ikyletwar.github.io/nihongo-prompts/) | 23h lalu |
+| [`simu-web`](https://github.com/Ikyletwar/simu-web) | HTML | 0 | [live](https://ikyletwar.github.io/simu-web/) | 23h lalu |
+| [`personal-website-v2`](https://github.com/Ikyletwar/personal-website-v2) | HTML | 0 | [live](https://ikyletwar.github.io/personal-website-v2/) | 23h lalu |
+| [`dih-pinterest-replica`](https://github.com/Ikyletwar/dih-pinterest-replica) | JavaScript | 0 | [live](https://ikyletwar.github.io/dih-pinterest-replica/) | 23h lalu |
 | [`nihongo-quest`](https://github.com/Ikyletwar/nihongo-quest) | JavaScript | 0 | [live](https://ikyletwar.github.io/nihongo-quest/) | 23h lalu |
 | [`cool-luxe-villa`](https://github.com/Ikyletwar/cool-luxe-villa) | HTML | 0 | [live](https://ikyletwar.github.io/cool-luxe-villa/) | 23h lalu |
-| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [live](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 23h lalu |
-| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 26h lalu |
-| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [live](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 27h lalu |
+| [`scraping-dan-cloningan-ujian-online`](https://github.com/Ikyletwar/scraping-dan-cloningan-ujian-online) | HTML | 0 | [live](https://ikyletwar.github.io/scraping-dan-cloningan-ujian-online/) | 24h lalu |
+| [`SimpleMusicPlayer`](https://github.com/Ikyletwar/SimpleMusicPlayer) | Java | 0 | — | 27h lalu |
+| [`AutoJadwal-SMKN1`](https://github.com/Ikyletwar/AutoJadwal-SMKN1) | HTML | 0 | [live](https://ikyletwar.github.io/AutoJadwal-SMKN1/) | 28h lalu |
 | [`tiktok-scraper`](https://github.com/Ikyletwar/tiktok-scraper) | Python | 0 | — | 1bl lalu |
 | [`TatsumiLoader-MLBB`](https://github.com/Ikyletwar/TatsumiLoader-MLBB) | C | 0 | — | 1bl lalu |
 | [`jailbreak-prompt-corpus`](https://github.com/Ikyletwar/jailbreak-prompt-corpus) | HTML | 0 | — | 2bl lalu |
@@ -173,5 +179,5 @@ Minat lain yang sering muncul: bahasa Jepang, anime dan streaming, catur, antarm
 <img src="assets/footer.svg" width="100%" alt="Dibuat dengan niat, dirapikan dengan teliti. Hizkia Letwar — Nihongo-Web — Maluku Tengah" />
 
 <p align="center"><sub>Diperbarui otomatis dari data publik GitHub · <!-- AUTO:STAMP -->
-`last sync 2026-11-26 12:35 UTC`
+`last sync 2026-11-27 12:22 UTC`
 <!-- /AUTO:STAMP --></sub></p>
